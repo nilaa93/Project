@@ -1,0 +1,2701 @@
+Extracted:,"United Nations High Commissioner for Refugees"
+"Date extracted:","01/10/2024 15:50 UTC"
+"Last updated:","13 June 2024"
+"Some data presented may differ from statistics published previously due to retroactive changes or the inclusion of previously unavailable data."
+
+"Data table contains the following:","Population figures"
+"Content type","End year stock population totals"
+"Data quick link",https://www.unhcr.org/refugee-statistics/download/?url=6CpU9t
+"Data definitions",https://www.unhcr.org/refugee-statistics/methodology/
+"Usage licence",https://creativecommons.org/licenses/by/4.0/
+"Population types included","REF,ROC,ASY,IDP,IOC,OIP,OOC,STA"
+Years:
+Origin:,"ALG,BAH,ARE,IRQ,ISR,JOR,KUW,LEB,LBY,MAU,MOR,OMN,QAT,SAU,GAZ,SYR,TUN,UAE,WSH,YEM"
+"Country of asylum:","ALB,AND,ARM,AUS,AZE,BLR,BEL,BSN,BVT,BUL,HRV,CYP,CZE,DEN,EST,FRO,FIN,FRA,GEO,GFR,GIB,GRE,GRL,VAT,HUN,ICE,IRE,ITA,LVA,LIE,LTU,LUX,MTA,MCO,MNE,NET,MCD,NOR,POL,POR,MDA,ROM,RUS,SMA,SRB,SVK,SVN,SPA,SJM,SWE,SWI,TUR,UKR,GBR"
+Year,"Country of origin","Country of asylum","Country of origin (ISO)","Country of asylum (ISO)","Refugees under UNHCR's mandate",Asylum-seekers
+2018,Algeria,Albania,DZA,ALB,0,16
+2018,Algeria,Austria,DZA,AUT,42,130
+2018,Algeria,Belgium,DZA,BEL,46,125
+2018,Algeria,"Bosnia and Herzegovina",DZA,BIH,0,5
+2018,Algeria,Bulgaria,DZA,BGR,0,20
+2018,Algeria,Cyprus,DZA,CYP,8,7
+2018,Algeria,Czechia,DZA,CZE,0,8
+2018,Algeria,Denmark,DZA,DNK,5,16
+2018,Algeria,Finland,DZA,FIN,15,10
+2018,Algeria,France,DZA,FRA,1790,1395
+2018,Algeria,"United Kingdom of Great Britain and Northern Ireland",DZA,GBR,337,257
+2018,Algeria,Germany,DZA,DEU,589,1295
+2018,Algeria,Greece,DZA,GRC,86,677
+2018,Algeria,Croatia,DZA,HRV,0,19
+2018,Algeria,Hungary,DZA,HUN,15,0
+2018,Algeria,Iceland,DZA,ISL,0,5
+2018,Algeria,Ireland,DZA,IRL,43,220
+2018,Algeria,Italy,DZA,ITA,199,165
+2018,Algeria,Luxembourg,DZA,LUX,0,40
+2018,Algeria,Montenegro,DZA,MNE,0,19
+2018,Algeria,Malta,DZA,MLT,0,7
+2018,Algeria,"Netherlands (Kingdom of the)",DZA,NLD,16,325
+2018,Algeria,Norway,DZA,NOR,8,0
+2018,Algeria,Poland,DZA,POL,5,6
+2018,Algeria,Romania,DZA,ROU,5,0
+2018,Algeria,Spain,DZA,ESP,48,1215
+2018,Algeria,Slovenia,DZA,SVN,0,24
+2018,Algeria,Sweden,DZA,SWE,60,87
+2018,Algeria,Switzerland,DZA,CHE,162,194
+2018,Algeria,Türkiye,DZA,TUR,5,24
+2018,Algeria,Ukraine,DZA,UKR,0,13
+2018,Egypt,Albania,EGY,ALB,5,0
+2018,Egypt,Austria,EGY,AUT,208,212
+2018,Egypt,Belgium,EGY,BEL,50,70
+2018,Egypt,Belarus,EGY,BLR,5,0
+2018,Egypt,Bulgaria,EGY,BGR,15,5
+2018,Egypt,Cyprus,EGY,CYP,110,706
+2018,Egypt,Czechia,EGY,CZE,5,7
+2018,Egypt,Denmark,EGY,DNK,16,10
+2018,Egypt,Estonia,EGY,EST,0,5
+2018,Egypt,Finland,EGY,FIN,14,15
+2018,Egypt,France,EGY,FRA,980,413
+2018,Egypt,"United Kingdom of Great Britain and Northern Ireland",EGY,GBR,758,327
+2018,Egypt,Georgia,EGY,GEO,43,49
+2018,Egypt,Germany,EGY,DEU,2122,2589
+2018,Egypt,Greece,EGY,GRC,264,1284
+2018,Egypt,Croatia,EGY,HRV,7,0
+2018,Egypt,Hungary,EGY,HUN,13,0
+2018,Egypt,Iceland,EGY,ISL,0,9
+2018,Egypt,Ireland,EGY,IRL,19,68
+2018,Egypt,Italy,EGY,ITA,2289,796
+2018,Egypt,Luxembourg,EGY,LUX,5,10
+2018,Egypt,Latvia,EGY,LVA,5,7
+2018,Egypt,"Rep. of Moldova",EGY,MDA,5,0
+2018,Egypt,Malta,EGY,MLT,74,30
+2018,Egypt,"Netherlands (Kingdom of the)",EGY,NLD,242,109
+2018,Egypt,Norway,EGY,NOR,59,5
+2018,Egypt,Poland,EGY,POL,65,15
+2018,Egypt,Romania,EGY,ROU,21,0
+2018,Egypt,Spain,EGY,ESP,15,65
+2018,Egypt,Slovakia,EGY,SVK,5,0
+2018,Egypt,Sweden,EGY,SWE,362,572
+2018,Egypt,Switzerland,EGY,CHE,110,19
+2018,Egypt,Türkiye,EGY,TUR,59,317
+2018,Egypt,Ukraine,EGY,UKR,5,22
+2018,Bahrain,France,BHR,FRA,10,0
+2018,Bahrain,"United Kingdom of Great Britain and Northern Ireland",BHR,GBR,168,11
+2018,Bahrain,Germany,BHR,DEU,79,14
+2018,Bahrain,Italy,BHR,ITA,5,0
+2018,Bahrain,"Netherlands (Kingdom of the)",BHR,NLD,8,0
+2018,Bahrain,Sweden,BHR,SWE,15,5
+2018,Bahrain,Switzerland,BHR,CHE,5,0
+2018,Palestinian,Albania,PSE,ALB,14,8
+2018,Palestinian,Armenia,PSE,ARM,7,0
+2018,Palestinian,Azerbaijan,PSE,AZE,5,0
+2018,Palestinian,Belgium,PSE,BEL,117,2250
+2018,Palestinian,"Bosnia and Herzegovina",PSE,BIH,5,11
+2018,Palestinian,Cyprus,PSE,CYP,1997,294
+2018,Palestinian,Denmark,PSE,DNK,20,0
+2018,Palestinian,France,PSE,FRA,940,271
+2018,Palestinian,"United Kingdom of Great Britain and Northern Ireland",PSE,GBR,536,259
+2018,Palestinian,Greece,PSE,GRC,1290,1242
+2018,Palestinian,Croatia,PSE,HRV,5,5
+2018,Palestinian,Hungary,PSE,HUN,93,0
+2018,Palestinian,Iceland,PSE,ISL,18,12
+2018,Palestinian,Ireland,PSE,IRL,78,46
+2018,Palestinian,Italy,PSE,ITA,1049,205
+2018,Palestinian,Latvia,PSE,LVA,5,0
+2018,Palestinian,"Rep. of Moldova",PSE,MDA,5,0
+2018,Palestinian,Montenegro,PSE,MNE,0,6
+2018,Palestinian,Malta,PSE,MLT,70,46
+2018,Palestinian,"Netherlands (Kingdom of the)",PSE,NLD,162,39
+2018,Palestinian,Poland,PSE,POL,17,5
+2018,Palestinian,Portugal,PSE,PRT,5,5
+2018,Palestinian,Romania,PSE,ROU,53,5
+2018,Palestinian,"Russian Federation",PSE,RUS,12,5
+2018,Palestinian,Spain,PSE,ESP,1051,2510
+2018,Palestinian,Slovakia,PSE,SVK,7,0
+2018,Palestinian,Slovenia,PSE,SVN,12,5
+2018,Palestinian,Sweden,PSE,SWE,1060,574
+2018,Palestinian,Türkiye,PSE,TUR,1226,570
+2018,Palestinian,Ukraine,PSE,UKR,18,168
+2018,Iraq,Albania,IRQ,ALB,5,25
+2018,Iraq,Armenia,IRQ,ARM,1083,9
+2018,Iraq,Austria,IRQ,AUT,8295,5769
+2018,Iraq,Azerbaijan,IRQ,AZE,5,9
+2018,Iraq,Belgium,IRQ,BEL,4000,1555
+2018,Iraq,Belarus,IRQ,BLR,13,5
+2018,Iraq,"Bosnia and Herzegovina",IRQ,BIH,5,65
+2018,Iraq,Bulgaria,IRQ,BGR,1253,362
+2018,Iraq,Cyprus,IRQ,CYP,890,445
+2018,Iraq,Czechia,IRQ,CZE,172,21
+2018,Iraq,Denmark,IRQ,DNK,446,172
+2018,Iraq,Estonia,IRQ,EST,25,0
+2018,Iraq,Finland,IRQ,FIN,8523,1044
+2018,Iraq,France,IRQ,FRA,8131,1521
+2018,Iraq,"United Kingdom of Great Britain and Northern Ireland",IRQ,GBR,4708,3420
+2018,Iraq,Georgia,IRQ,GEO,560,46
+2018,Iraq,Germany,IRQ,DEU,136463,41954
+2018,Iraq,Greece,IRQ,GRC,8828,9066
+2018,Iraq,Croatia,IRQ,HRV,97,35
+2018,Iraq,Hungary,IRQ,HUN,672,22
+2018,Iraq,Iceland,IRQ,ISL,146,96
+2018,Iraq,Ireland,IRQ,IRL,342,103
+2018,Iraq,Italy,IRQ,ITA,6174,1011
+2018,Iraq,Liechtenstein,IRQ,LIE,7,0
+2018,Iraq,Lithuania,IRQ,LTU,59,23
+2018,Iraq,Luxembourg,IRQ,LUX,280,115
+2018,Iraq,Latvia,IRQ,LVA,38,5
+2018,Iraq,"North Macedonia",IRQ,MKD,0,5
+2018,Iraq,"Rep. of Moldova",IRQ,MDA,22,0
+2018,Iraq,Montenegro,IRQ,MNE,0,7
+2018,Iraq,Malta,IRQ,MLT,78,6
+2018,Iraq,"Netherlands (Kingdom of the)",IRQ,NLD,9259,819
+2018,Iraq,Norway,IRQ,NOR,1989,138
+2018,Iraq,Poland,IRQ,POL,255,27
+2018,Iraq,Portugal,IRQ,PRT,162,0
+2018,Iraq,Romania,IRQ,ROU,968,969
+2018,Iraq,"Russian Federation",IRQ,RUS,17,5
+2018,Iraq,Spain,IRQ,ESP,324,150
+2018,Iraq,"Serbia and Kosovo: S/RES/1244 (1999)",IRQ,SRB,288,0
+2018,Iraq,Slovakia,IRQ,SVK,213,0
+2018,Iraq,Slovenia,IRQ,SVN,42,15
+2018,Iraq,Sweden,IRQ,SWE,12693,5060
+2018,Iraq,Switzerland,IRQ,CHE,4476,854
+2018,Iraq,Türkiye,IRQ,TUR,39088,103640
+2018,Iraq,Ukraine,IRQ,UKR,79,268
+2018,Israel,Austria,ISR,AUT,11,5
+2018,Israel,Belgium,ISR,BEL,13,0
+2018,Israel,France,ISR,FRA,7,0
+2018,Israel,"United Kingdom of Great Britain and Northern Ireland",ISR,GBR,6,5
+2018,Israel,Germany,ISR,DEU,41,36
+2018,Israel,Ireland,ISR,IRL,5,5
+2018,Israel,Italy,ISR,ITA,7,5
+2018,Israel,Norway,ISR,NOR,11,0
+2018,Israel,Sweden,ISR,SWE,29,27
+2018,Israel,Switzerland,ISR,CHE,5,5
+2018,Jordan,Austria,JOR,AUT,76,28
+2018,Jordan,Belgium,JOR,BEL,24,45
+2018,Jordan,Bulgaria,JOR,BGR,7,0
+2018,Jordan,Cyprus,JOR,CYP,38,70
+2018,Jordan,Czechia,JOR,CZE,0,5
+2018,Jordan,Denmark,JOR,DNK,5,13
+2018,Jordan,Finland,JOR,FIN,0,10
+2018,Jordan,France,JOR,FRA,31,5
+2018,Jordan,"United Kingdom of Great Britain and Northern Ireland",JOR,GBR,70,56
+2018,Jordan,Germany,JOR,DEU,382,387
+2018,Jordan,Greece,JOR,GRC,19,37
+2018,Jordan,Italy,JOR,ITA,35,15
+2018,Jordan,Luxembourg,JOR,LUX,0,5
+2018,Jordan,Malta,JOR,MLT,5,0
+2018,Jordan,"Netherlands (Kingdom of the)",JOR,NLD,16,49
+2018,Jordan,Norway,JOR,NOR,7,0
+2018,Jordan,Poland,JOR,POL,0,5
+2018,Jordan,Romania,JOR,ROU,8,0
+2018,Jordan,Spain,JOR,ESP,28,20
+2018,Jordan,Sweden,JOR,SWE,294,271
+2018,Jordan,Switzerland,JOR,CHE,66,5
+2018,Jordan,Türkiye,JOR,TUR,36,97
+2018,Jordan,Ukraine,JOR,UKR,5,25
+2018,Kuwait,Austria,KWT,AUT,5,7
+2018,Kuwait,Belgium,KWT,BEL,7,0
+2018,Kuwait,France,KWT,FRA,121,173
+2018,Kuwait,"United Kingdom of Great Britain and Northern Ireland",KWT,GBR,583,424
+2018,Kuwait,Germany,KWT,DEU,27,51
+2018,Kuwait,Greece,KWT,GRC,85,60
+2018,Kuwait,Ireland,KWT,IRL,47,19
+2018,Kuwait,Italy,KWT,ITA,8,0
+2018,Kuwait,Luxembourg,KWT,LUX,0,5
+2018,Kuwait,"Netherlands (Kingdom of the)",KWT,NLD,5,0
+2018,Kuwait,Sweden,KWT,SWE,25,55
+2018,Kuwait,Switzerland,KWT,CHE,0,5
+2018,Kuwait,Türkiye,KWT,TUR,0,5
+2018,Libya,Albania,LBY,ALB,0,28
+2018,Libya,Austria,LBY,AUT,92,83
+2018,Libya,Azerbaijan,LBY,AZE,5,0
+2018,Libya,Belgium,LBY,BEL,60,125
+2018,Libya,Belarus,LBY,BLR,9,0
+2018,Libya,"Bosnia and Herzegovina",LBY,BIH,0,7
+2018,Libya,Cyprus,LBY,CYP,0,9
+2018,Libya,Czechia,LBY,CZE,14,14
+2018,Libya,Denmark,LBY,DNK,11,13
+2018,Libya,Finland,LBY,FIN,26,5
+2018,Libya,France,LBY,FRA,721,792
+2018,Libya,"United Kingdom of Great Britain and Northern Ireland",LBY,GBR,3003,815
+2018,Libya,Germany,LBY,DEU,1732,1345
+2018,Libya,Greece,LBY,GRC,39,48
+2018,Libya,Croatia,LBY,HRV,5,0
+2018,Libya,Hungary,LBY,HUN,7,0
+2018,Libya,Iceland,LBY,ISL,5,5
+2018,Libya,Ireland,LBY,IRL,150,67
+2018,Libya,Italy,LBY,ITA,1142,367
+2018,Libya,Luxembourg,LBY,LUX,5,10
+2018,Libya,Montenegro,LBY,MNE,0,24
+2018,Libya,Malta,LBY,MLT,2688,297
+2018,Libya,"Netherlands (Kingdom of the)",LBY,NLD,280,202
+2018,Libya,Norway,LBY,NOR,58,5
+2018,Libya,Poland,LBY,POL,31,5
+2018,Libya,Portugal,LBY,PRT,14,0
+2018,Libya,Romania,LBY,ROU,5,0
+2018,Libya,Spain,LBY,ESP,24,145
+2018,Libya,"Serbia and Kosovo: S/RES/1244 (1999)",LBY,SRB,42,0
+2018,Libya,Sweden,LBY,SWE,397,115
+2018,Libya,Switzerland,LBY,CHE,303,66
+2018,Libya,Türkiye,LBY,TUR,27,87
+2018,Libya,Ukraine,LBY,UKR,0,24
+2018,Lebanon,Armenia,LBN,ARM,19,5
+2018,Lebanon,Austria,LBN,AUT,105,134
+2018,Lebanon,Belgium,LBN,BEL,99,125
+2018,Lebanon,Bulgaria,LBN,BGR,24,5
+2018,Lebanon,Cyprus,LBN,CYP,52,45
+2018,Lebanon,Czechia,LBN,CZE,5,0
+2018,Lebanon,Denmark,LBN,DNK,25,10
+2018,Lebanon,Finland,LBN,FIN,12,5
+2018,Lebanon,France,LBN,FRA,140,124
+2018,Lebanon,"United Kingdom of Great Britain and Northern Ireland",LBN,GBR,171,50
+2018,Lebanon,Georgia,LBN,GEO,6,5
+2018,Lebanon,Germany,LBN,DEU,1557,2820
+2018,Lebanon,Greece,LBN,GRC,41,99
+2018,Lebanon,Hungary,LBN,HUN,7,0
+2018,Lebanon,Ireland,LBN,IRL,5,8
+2018,Lebanon,Italy,LBN,ITA,328,44
+2018,Lebanon,Luxembourg,LBN,LUX,0,5
+2018,Lebanon,Latvia,LBN,LVA,5,0
+2018,Lebanon,"Netherlands (Kingdom of the)",LBN,NLD,36,43
+2018,Lebanon,Norway,LBN,NOR,26,5
+2018,Lebanon,Romania,LBN,ROU,5,0
+2018,Lebanon,"Russian Federation",LBN,RUS,6,0
+2018,Lebanon,Spain,LBN,ESP,24,130
+2018,Lebanon,Sweden,LBN,SWE,528,478
+2018,Lebanon,Switzerland,LBN,CHE,36,23
+2018,Lebanon,Türkiye,LBN,TUR,13,29
+2018,Lebanon,Ukraine,LBN,UKR,9,22
+2018,Mauritania,Austria,MRT,AUT,5,5
+2018,Mauritania,Belgium,MRT,BEL,206,130
+2018,Mauritania,Finland,MRT,FIN,5,0
+2018,Mauritania,France,MRT,FRA,5419,959
+2018,Mauritania,"United Kingdom of Great Britain and Northern Ireland",MRT,GBR,6,5
+2018,Mauritania,Germany,MRT,DEU,34,87
+2018,Mauritania,Greece,MRT,GRC,53,21
+2018,Mauritania,Croatia,MRT,HRV,5,0
+2018,Mauritania,Italy,MRT,ITA,347,37
+2018,Mauritania,Luxembourg,MRT,LUX,0,5
+2018,Mauritania,"Netherlands (Kingdom of the)",MRT,NLD,7,0
+2018,Mauritania,Portugal,MRT,PRT,5,0
+2018,Mauritania,Spain,MRT,ESP,0,95
+2018,Mauritania,Sweden,MRT,SWE,14,0
+2018,Mauritania,Switzerland,MRT,CHE,9,0
+2018,Mauritania,Türkiye,MRT,TUR,8,0
+2018,Morocco,Albania,MAR,ALB,0,28
+2018,Morocco,Austria,MAR,AUT,34,112
+2018,Morocco,Belgium,MAR,BEL,70,165
+2018,Morocco,"Bosnia and Herzegovina",MAR,BIH,0,7
+2018,Morocco,Bulgaria,MAR,BGR,5,0
+2018,Morocco,Cyprus,MAR,CYP,0,5
+2018,Morocco,Czechia,MAR,CZE,5,0
+2018,Morocco,Denmark,MAR,DNK,8,51
+2018,Morocco,Finland,MAR,FIN,37,12
+2018,Morocco,France,MAR,FRA,632,449
+2018,Morocco,"United Kingdom of Great Britain and Northern Ireland",MAR,GBR,198,114
+2018,Morocco,Germany,MAR,DEU,712,1310
+2018,Morocco,Greece,MAR,GRC,150,345
+2018,Morocco,Croatia,MAR,HRV,0,5
+2018,Morocco,Iceland,MAR,ISL,5,8
+2018,Morocco,Ireland,MAR,IRL,6,35
+2018,Morocco,Italy,MAR,ITA,1076,2275
+2018,Morocco,Luxembourg,MAR,LUX,0,50
+2018,Morocco,Montenegro,MAR,MNE,0,20
+2018,Morocco,Malta,MAR,MLT,29,17
+2018,Morocco,"Netherlands (Kingdom of the)",MAR,NLD,44,327
+2018,Morocco,Norway,MAR,NOR,27,10
+2018,Morocco,Portugal,MAR,PRT,9,0
+2018,Morocco,Romania,MAR,ROU,0,5
+2018,Morocco,Spain,MAR,ESP,173,1060
+2018,Morocco,Slovenia,MAR,SVN,0,11
+2018,Morocco,Sweden,MAR,SWE,240,318
+2018,Morocco,Switzerland,MAR,CHE,67,96
+2018,Morocco,Türkiye,MAR,TUR,33,75
+2018,Morocco,Ukraine,MAR,UKR,0,5
+2018,Oman,"United Kingdom of Great Britain and Northern Ireland",OMN,GBR,16,11
+2018,Oman,Germany,OMN,DEU,9,6
+2018,Qatar,"United Kingdom of Great Britain and Northern Ireland",QAT,GBR,5,0
+2018,"Saudi Arabia",Austria,SAU,AUT,5,0
+2018,"Saudi Arabia",Belgium,SAU,BEL,5,0
+2018,"Saudi Arabia",Czechia,SAU,CZE,5,0
+2018,"Saudi Arabia",France,SAU,FRA,12,0
+2018,"Saudi Arabia","United Kingdom of Great Britain and Northern Ireland",SAU,GBR,165,74
+2018,"Saudi Arabia",Germany,SAU,DEU,130,36
+2018,"Saudi Arabia",Greece,SAU,GRC,7,0
+2018,"Saudi Arabia",Ireland,SAU,IRL,9,7
+2018,"Saudi Arabia",Italy,SAU,ITA,11,11
+2018,"Saudi Arabia",Malta,SAU,MLT,5,0
+2018,"Saudi Arabia","Netherlands (Kingdom of the)",SAU,NLD,13,0
+2018,"Saudi Arabia",Norway,SAU,NOR,6,0
+2018,"Saudi Arabia",Spain,SAU,ESP,0,5
+2018,"Saudi Arabia",Sweden,SAU,SWE,50,15
+2018,"Saudi Arabia",Switzerland,SAU,CHE,7,11
+2018,"Saudi Arabia",Türkiye,SAU,TUR,5,11
+2018,"Syrian Arab Rep.",Albania,SYR,ALB,6,44
+2018,"Syrian Arab Rep.",Armenia,SYR,ARM,14701,8
+2018,"Syrian Arab Rep.",Austria,SYR,AUT,49179,1538
+2018,"Syrian Arab Rep.",Azerbaijan,SYR,AZE,15,5
+2018,"Syrian Arab Rep.",Belgium,SYR,BEL,9080,2005
+2018,"Syrian Arab Rep.",Belarus,SYR,BLR,66,5
+2018,"Syrian Arab Rep.","Bosnia and Herzegovina",SYR,BIH,15,67
+2018,"Syrian Arab Rep.",Bulgaria,SYR,BGR,17161,215
+2018,"Syrian Arab Rep.",Cyprus,SYR,CYP,6259,2553
+2018,"Syrian Arab Rep.",Czechia,SYR,CZE,448,8
+2018,"Syrian Arab Rep.",Denmark,SYR,DNK,19698,292
+2018,"Syrian Arab Rep.",Estonia,SYR,EST,146,0
+2018,"Syrian Arab Rep.",Finland,SYR,FIN,2497,73
+2018,"Syrian Arab Rep.",France,SYR,FRA,15822,3352
+2018,"Syrian Arab Rep.","United Kingdom of Great Britain and Northern Ireland",SYR,GBR,9720,685
+2018,"Syrian Arab Rep.",Georgia,SYR,GEO,428,24
+2018,"Syrian Arab Rep.",Germany,SYR,DEU,532065,52396
+2018,"Syrian Arab Rep.",Greece,SYR,GRC,23931,14104
+2018,"Syrian Arab Rep.",Croatia,SYR,HRV,398,29
+2018,"Syrian Arab Rep.",Hungary,SYR,HUN,971,5
+2018,"Syrian Arab Rep.",Iceland,SYR,ISL,87,30
+2018,"Syrian Arab Rep.",Ireland,SYR,IRL,2126,66
+2018,"Syrian Arab Rep.",Italy,SYR,ITA,4652,1197
+2018,"Syrian Arab Rep.",Liechtenstein,SYR,LIE,32,0
+2018,"Syrian Arab Rep.",Lithuania,SYR,LTU,435,10
+2018,"Syrian Arab Rep.",Luxembourg,SYR,LUX,686,160
+2018,"Syrian Arab Rep.",Latvia,SYR,LVA,384,0
+2018,"Syrian Arab Rep.","North Macedonia",SYR,MKD,17,0
+2018,"Syrian Arab Rep.","Rep. of Moldova",SYR,MDA,213,5
+2018,"Syrian Arab Rep.",Montenegro,SYR,MNE,5,47
+2018,"Syrian Arab Rep.",Malta,SYR,MLT,1497,370
+2018,"Syrian Arab Rep.","Netherlands (Kingdom of the)",SYR,NLD,32092,1687
+2018,"Syrian Arab Rep.",Norway,SYR,NOR,13914,235
+2018,"Syrian Arab Rep.",Poland,SYR,POL,531,20
+2018,"Syrian Arab Rep.",Portugal,SYR,PRT,602,0
+2018,"Syrian Arab Rep.",Romania,SYR,ROU,2292,150
+2018,"Syrian Arab Rep.","Russian Federation",SYR,RUS,828,174
+2018,"Syrian Arab Rep.",Spain,SYR,ESP,13765,2320
+2018,"Syrian Arab Rep.","Serbia and Kosovo: S/RES/1244 (1999)",SYR,SRB,74,7
+2018,"Syrian Arab Rep.",Slovakia,SYR,SVK,14,0
+2018,"Syrian Arab Rep.",Slovenia,SYR,SVN,290,23
+2018,"Syrian Arab Rep.",Sweden,SYR,SWE,109343,2353
+2018,"Syrian Arab Rep.",Switzerland,SYR,CHE,16565,1789
+2018,"Syrian Arab Rep.",Türkiye,SYR,TUR,3622366,111
+2018,"Syrian Arab Rep.",Ukraine,SYR,UKR,457,489
+2018,Tunisia,Austria,TUN,AUT,6,54
+2018,Tunisia,Belgium,TUN,BEL,37,35
+2018,Tunisia,Bulgaria,TUN,BGR,5,0
+2018,Tunisia,Czechia,TUN,CZE,0,8
+2018,Tunisia,Denmark,TUN,DNK,0,9
+2018,Tunisia,Finland,TUN,FIN,5,0
+2018,Tunisia,France,TUN,FRA,326,225
+2018,Tunisia,"United Kingdom of Great Britain and Northern Ireland",TUN,GBR,53,43
+2018,Tunisia,Germany,TUN,DEU,197,599
+2018,Tunisia,Greece,TUN,GRC,19,53
+2018,Tunisia,Hungary,TUN,HUN,8,0
+2018,Tunisia,Iceland,TUN,ISL,0,7
+2018,Tunisia,Ireland,TUN,IRL,0,14
+2018,Tunisia,Italy,TUN,ITA,672,705
+2018,Tunisia,Luxembourg,TUN,LUX,5,60
+2018,Tunisia,Malta,TUN,MLT,12,7
+2018,Tunisia,"Netherlands (Kingdom of the)",TUN,NLD,16,64
+2018,Tunisia,Norway,TUN,NOR,5,5
+2018,Tunisia,Spain,TUN,ESP,0,100
+2018,Tunisia,Sweden,TUN,SWE,53,104
+2018,Tunisia,Switzerland,TUN,CHE,246,34
+2018,Tunisia,Türkiye,TUN,TUR,13,38
+2018,Tunisia,Ukraine,TUN,UKR,0,10
+2018,"United Arab Emirates","United Kingdom of Great Britain and Northern Ireland",ARE,GBR,20,8
+2018,"United Arab Emirates",Germany,ARE,DEU,33,5
+2018,"United Arab Emirates",Norway,ARE,NOR,0,5
+2018,"United Arab Emirates",Sweden,ARE,SWE,5,0
+2018,"United Arab Emirates",Switzerland,ARE,CHE,0,68
+2018,"United Arab Emirates",Türkiye,ARE,TUR,6,21
+2018,"Western Sahara",France,ESH,FRA,573,1097
+2018,"Western Sahara","United Kingdom of Great Britain and Northern Ireland",ESH,GBR,11,5
+2018,"Western Sahara",Greece,ESH,GRC,7,5
+2018,"Western Sahara",Italy,ESH,ITA,5,0
+2018,"Western Sahara",Spain,ESH,ESP,19,95
+2018,"Western Sahara",Switzerland,ESH,CHE,9,0
+2018,"Western Sahara",Ukraine,ESH,UKR,0,5
+2018,Yemen,Armenia,YEM,ARM,20,0
+2018,Yemen,Austria,YEM,AUT,258,74
+2018,Yemen,Azerbaijan,YEM,AZE,9,5
+2018,Yemen,Belgium,YEM,BEL,24,95
+2018,Yemen,Belarus,YEM,BLR,23,0
+2018,Yemen,"Bosnia and Herzegovina",YEM,BIH,0,14
+2018,Yemen,Bulgaria,YEM,BGR,12,0
+2018,Yemen,Cyprus,YEM,CYP,20,9
+2018,Yemen,Czechia,YEM,CZE,15,5
+2018,Yemen,Denmark,YEM,DNK,5,5
+2018,Yemen,Estonia,YEM,EST,5,0
+2018,Yemen,Finland,YEM,FIN,182,46
+2018,Yemen,France,YEM,FRA,338,196
+2018,Yemen,"United Kingdom of Great Britain and Northern Ireland",YEM,GBR,624,168
+2018,Yemen,Georgia,YEM,GEO,20,35
+2018,Yemen,Germany,YEM,DEU,1809,873
+2018,Yemen,Greece,YEM,GRC,369,178
+2018,Yemen,Croatia,YEM,HRV,7,0
+2018,Yemen,Hungary,YEM,HUN,18,0
+2018,Yemen,Ireland,YEM,IRL,8,6
+2018,Yemen,Italy,YEM,ITA,141,54
+2018,Yemen,Luxembourg,YEM,LUX,0,10
+2018,Yemen,"Rep. of Moldova",YEM,MDA,5,0
+2018,Yemen,Montenegro,YEM,MNE,11,0
+2018,Yemen,Malta,YEM,MLT,0,5
+2018,Yemen,"Netherlands (Kingdom of the)",YEM,NLD,376,399
+2018,Yemen,Norway,YEM,NOR,235,7
+2018,Yemen,Poland,YEM,POL,9,8
+2018,Yemen,Portugal,YEM,PRT,7,0
+2018,Yemen,Romania,YEM,ROU,33,9
+2018,Yemen,"Russian Federation",YEM,RUS,92,9
+2018,Yemen,Spain,YEM,ESP,103,500
+2018,Yemen,Slovakia,YEM,SVK,19,0
+2018,Yemen,Slovenia,YEM,SVN,5,0
+2018,Yemen,Sweden,YEM,SWE,1343,228
+2018,Yemen,Switzerland,YEM,CHE,336,20
+2018,Yemen,Türkiye,YEM,TUR,169,608
+2018,Yemen,Ukraine,YEM,UKR,5,6
+2019,Algeria,Austria,DZA,AUT,37,117
+2019,Algeria,Belgium,DZA,BEL,75,78
+2019,Algeria,"Bosnia and Herzegovina",DZA,BIH,0,5
+2019,Algeria,Bulgaria,DZA,BGR,0,21
+2019,Algeria,Cyprus,DZA,CYP,8,8
+2019,Algeria,Czechia,DZA,CZE,0,5
+2019,Algeria,Denmark,DZA,DNK,5,9
+2019,Algeria,Finland,DZA,FIN,14,13
+2019,Algeria,France,DZA,FRA,1997,1211
+2019,Algeria,"United Kingdom of Great Britain and Northern Ireland",DZA,GBR,344,353
+2019,Algeria,Germany,DZA,DEU,613,1087
+2019,Algeria,Greece,DZA,GRC,98,478
+2019,Algeria,Croatia,DZA,HRV,0,23
+2019,Algeria,Hungary,DZA,HUN,15,0
+2019,Algeria,Ireland,DZA,IRL,54,202
+2019,Algeria,Italy,DZA,ITA,228,130
+2019,Algeria,Luxembourg,DZA,LUX,0,40
+2019,Algeria,"North Macedonia",DZA,MKD,0,7
+2019,Algeria,Montenegro,DZA,MNE,0,48
+2019,Algeria,Malta,DZA,MLT,0,15
+2019,Algeria,"Netherlands (Kingdom of the)",DZA,NLD,15,293
+2019,Algeria,Norway,DZA,NOR,6,0
+2019,Algeria,Poland,DZA,POL,5,10
+2019,Algeria,Portugal,DZA,PRT,0,5
+2019,Algeria,Romania,DZA,ROU,0,55
+2019,Algeria,Spain,DZA,ESP,61,1345
+2019,Algeria,"Serbia and Kosovo: S/RES/1244 (1999)",DZA,SRB,0,5
+2019,Algeria,Slovenia,DZA,SVN,0,41
+2019,Algeria,Sweden,DZA,SWE,60,70
+2019,Algeria,Switzerland,DZA,CHE,162,147
+2019,Algeria,Ukraine,DZA,UKR,0,12
+2019,Egypt,Albania,EGY,ALB,5,0
+2019,Egypt,Armenia,EGY,ARM,5,0
+2019,Egypt,Austria,EGY,AUT,220,151
+2019,Egypt,Azerbaijan,EGY,AZE,0,5
+2019,Egypt,Belgium,EGY,BEL,115,27
+2019,Egypt,Belarus,EGY,BLR,5,0
+2019,Egypt,"Bosnia and Herzegovina",EGY,BIH,0,5
+2019,Egypt,Bulgaria,EGY,BGR,15,6
+2019,Egypt,Cyprus,EGY,CYP,115,1007
+2019,Egypt,Czechia,EGY,CZE,8,5
+2019,Egypt,Denmark,EGY,DNK,16,10
+2019,Egypt,Estonia,EGY,EST,5,0
+2019,Egypt,Finland,EGY,FIN,19,28
+2019,Egypt,France,EGY,FRA,1091,417
+2019,Egypt,"United Kingdom of Great Britain and Northern Ireland",EGY,GBR,860,510
+2019,Egypt,Georgia,EGY,GEO,60,114
+2019,Egypt,Germany,EGY,DEU,2310,2187
+2019,Egypt,Greece,EGY,GRC,343,1502
+2019,Egypt,Croatia,EGY,HRV,7,0
+2019,Egypt,Hungary,EGY,HUN,11,0
+2019,Egypt,Iceland,EGY,ISL,6,0
+2019,Egypt,Ireland,EGY,IRL,30,68
+2019,Egypt,Italy,EGY,ITA,2379,638
+2019,Egypt,Luxembourg,EGY,LUX,5,5
+2019,Egypt,Latvia,EGY,LVA,5,5
+2019,Egypt,Montenegro,EGY,MNE,0,5
+2019,Egypt,Malta,EGY,MLT,74,60
+2019,Egypt,"Netherlands (Kingdom of the)",EGY,NLD,205,189
+2019,Egypt,Norway,EGY,NOR,59,10
+2019,Egypt,Poland,EGY,POL,71,16
+2019,Egypt,Portugal,EGY,PRT,0,9
+2019,Egypt,Romania,EGY,ROU,19,25
+2019,Egypt,"Russian Federation",EGY,RUS,0,5
+2019,Egypt,Spain,EGY,ESP,39,125
+2019,Egypt,Slovakia,EGY,SVK,5,0
+2019,Egypt,Sweden,EGY,SWE,391,506
+2019,Egypt,Switzerland,EGY,CHE,115,24
+2019,Egypt,Ukraine,EGY,UKR,5,15
+2019,Bahrain,France,BHR,FRA,10,0
+2019,Bahrain,"United Kingdom of Great Britain and Northern Ireland",BHR,GBR,177,12
+2019,Bahrain,Germany,BHR,DEU,89,5
+2019,Bahrain,Ireland,BHR,IRL,5,5
+2019,Bahrain,Italy,BHR,ITA,5,0
+2019,Bahrain,"Netherlands (Kingdom of the)",BHR,NLD,9,0
+2019,Bahrain,Sweden,BHR,SWE,17,5
+2019,Bahrain,Switzerland,BHR,CHE,5,0
+2019,Palestinian,Albania,PSE,ALB,7,5
+2019,Palestinian,Armenia,PSE,ARM,7,0
+2019,Palestinian,Azerbaijan,PSE,AZE,5,0
+2019,Palestinian,Belgium,PSE,BEL,844,877
+2019,Palestinian,Belarus,PSE,BLR,0,5
+2019,Palestinian,"Bosnia and Herzegovina",PSE,BIH,0,5
+2019,Palestinian,Cyprus,PSE,CYP,2059,330
+2019,Palestinian,Denmark,PSE,DNK,20,0
+2019,Palestinian,France,PSE,FRA,1109,230
+2019,Palestinian,"United Kingdom of Great Britain and Northern Ireland",PSE,GBR,608,345
+2019,Palestinian,Georgia,PSE,GEO,0,14
+2019,Palestinian,Greece,PSE,GRC,2756,1530
+2019,Palestinian,Croatia,PSE,HRV,6,7
+2019,Palestinian,Hungary,PSE,HUN,90,6
+2019,Palestinian,Iceland,PSE,ISL,37,11
+2019,Palestinian,Ireland,PSE,IRL,117,52
+2019,Palestinian,Italy,PSE,ITA,1086,90
+2019,Palestinian,Latvia,PSE,LVA,6,0
+2019,Palestinian,"Rep. of Moldova",PSE,MDA,5,0
+2019,Palestinian,Montenegro,PSE,MNE,0,5
+2019,Palestinian,Malta,PSE,MLT,70,24
+2019,Palestinian,"Netherlands (Kingdom of the)",PSE,NLD,160,42
+2019,Palestinian,Poland,PSE,POL,17,8
+2019,Palestinian,Portugal,PSE,PRT,5,0
+2019,Palestinian,Romania,PSE,ROU,58,15
+2019,Palestinian,"Russian Federation",PSE,RUS,10,0
+2019,Palestinian,Spain,PSE,ESP,1184,1385
+2019,Palestinian,"Serbia and Kosovo: S/RES/1244 (1999)",PSE,SRB,0,7
+2019,Palestinian,Slovakia,PSE,SVK,7,0
+2019,Palestinian,Slovenia,PSE,SVN,14,16
+2019,Palestinian,Sweden,PSE,SWE,1167,714
+2019,Palestinian,Ukraine,PSE,UKR,10,39
+2019,Iraq,Albania,IRQ,ALB,8,0
+2019,Iraq,Armenia,IRQ,ARM,1087,0
+2019,Iraq,Austria,IRQ,AUT,8568,4733
+2019,Iraq,Azerbaijan,IRQ,AZE,5,6
+2019,Iraq,Belgium,IRQ,BEL,5602,879
+2019,Iraq,Belarus,IRQ,BLR,12,0
+2019,Iraq,"Bosnia and Herzegovina",IRQ,BIH,0,205
+2019,Iraq,Bulgaria,IRQ,BGR,1300,82
+2019,Iraq,Cyprus,IRQ,CYP,919,357
+2019,Iraq,Czechia,IRQ,CZE,146,6
+2019,Iraq,Denmark,IRQ,DNK,314,73
+2019,Iraq,Estonia,IRQ,EST,22,0
+2019,Iraq,Finland,IRQ,FIN,8862,3509
+2019,Iraq,France,IRQ,FRA,8829,1330
+2019,Iraq,"United Kingdom of Great Britain and Northern Ireland",IRQ,GBR,5752,5338
+2019,Iraq,Georgia,IRQ,GEO,527,66
+2019,Iraq,Germany,IRQ,DEU,141650,34890
+2019,Iraq,Greece,IRQ,GRC,9614,7283
+2019,Iraq,Croatia,IRQ,HRV,106,130
+2019,Iraq,Hungary,IRQ,HUN,621,68
+2019,Iraq,Iceland,IRQ,ISL,196,86
+2019,Iraq,Ireland,IRQ,IRL,398,81
+2019,Iraq,Italy,IRQ,ITA,6994,934
+2019,Iraq,Liechtenstein,IRQ,LIE,7,0
+2019,Iraq,Lithuania,IRQ,LTU,65,9
+2019,Iraq,Luxembourg,IRQ,LUX,310,90
+2019,Iraq,Latvia,IRQ,LVA,36,0
+2019,Iraq,"North Macedonia",IRQ,MKD,0,8
+2019,Iraq,"Rep. of Moldova",IRQ,MDA,21,5
+2019,Iraq,Montenegro,IRQ,MNE,0,5
+2019,Iraq,Malta,IRQ,MLT,84,5
+2019,Iraq,"Netherlands (Kingdom of the)",IRQ,NLD,8423,675
+2019,Iraq,Norway,IRQ,NOR,1634,82
+2019,Iraq,Poland,IRQ,POL,272,24
+2019,Iraq,Portugal,IRQ,PRT,181,5
+2019,Iraq,Romania,IRQ,ROU,881,278
+2019,Iraq,"Russian Federation",IRQ,RUS,17,5
+2019,Iraq,Spain,IRQ,ESP,292,250
+2019,Iraq,"Serbia and Kosovo: S/RES/1244 (1999)",IRQ,SRB,13,9
+2019,Iraq,Slovakia,IRQ,SVK,214,0
+2019,Iraq,Slovenia,IRQ,SVN,43,19
+2019,Iraq,Sweden,IRQ,SWE,12460,2879
+2019,Iraq,Switzerland,IRQ,CHE,4545,671
+2019,Iraq,Türkiye,IRQ,TUR,1279,173245
+2019,Iraq,Ukraine,IRQ,UKR,80,93
+2019,Israel,Austria,ISR,AUT,12,0
+2019,Israel,Belgium,ISR,BEL,5,0
+2019,Israel,France,ISR,FRA,7,0
+2019,Israel,"United Kingdom of Great Britain and Northern Ireland",ISR,GBR,7,10
+2019,Israel,Germany,ISR,DEU,39,41
+2019,Israel,Ireland,ISR,IRL,5,0
+2019,Israel,Italy,ISR,ITA,9,0
+2019,Israel,Norway,ISR,NOR,8,0
+2019,Israel,Spain,ISR,ESP,0,10
+2019,Israel,Sweden,ISR,SWE,25,20
+2019,Israel,Switzerland,ISR,CHE,5,0
+2019,Jordan,Austria,JOR,AUT,78,26
+2019,Jordan,Belgium,JOR,BEL,26,31
+2019,Jordan,Bulgaria,JOR,BGR,7,0
+2019,Jordan,Cyprus,JOR,CYP,38,98
+2019,Jordan,Czechia,JOR,CZE,0,5
+2019,Jordan,Denmark,JOR,DNK,0,7
+2019,Jordan,Finland,JOR,FIN,5,11
+2019,Jordan,France,JOR,FRA,32,5
+2019,Jordan,"United Kingdom of Great Britain and Northern Ireland",JOR,GBR,73,99
+2019,Jordan,Georgia,JOR,GEO,0,25
+2019,Jordan,Germany,JOR,DEU,435,448
+2019,Jordan,Greece,JOR,GRC,24,27
+2019,Jordan,Ireland,JOR,IRL,6,10
+2019,Jordan,Italy,JOR,ITA,41,10
+2019,Jordan,Malta,JOR,MLT,5,0
+2019,Jordan,"Netherlands (Kingdom of the)",JOR,NLD,5,122
+2019,Jordan,Norway,JOR,NOR,7,0
+2019,Jordan,Poland,JOR,POL,0,5
+2019,Jordan,Portugal,JOR,PRT,0,5
+2019,Jordan,Romania,JOR,ROU,6,5
+2019,Jordan,Spain,JOR,ESP,30,30
+2019,Jordan,Sweden,JOR,SWE,284,273
+2019,Jordan,Switzerland,JOR,CHE,59,0
+2019,Jordan,Ukraine,JOR,UKR,5,8
+2019,Kuwait,Austria,KWT,AUT,9,0
+2019,Kuwait,Belgium,KWT,BEL,6,0
+2019,Kuwait,France,KWT,FRA,164,401
+2019,Kuwait,"United Kingdom of Great Britain and Northern Ireland",KWT,GBR,640,342
+2019,Kuwait,Germany,KWT,DEU,30,31
+2019,Kuwait,Greece,KWT,GRC,104,97
+2019,Kuwait,Ireland,KWT,IRL,50,24
+2019,Kuwait,Italy,KWT,ITA,13,5
+2019,Kuwait,Luxembourg,KWT,LUX,0,5
+2019,Kuwait,"Netherlands (Kingdom of the)",KWT,NLD,5,0
+2019,Kuwait,Spain,KWT,ESP,0,5
+2019,Kuwait,Sweden,KWT,SWE,32,26
+2019,Kuwait,Switzerland,KWT,CHE,6,0
+2019,Libya,Austria,LBY,AUT,124,48
+2019,Libya,Azerbaijan,LBY,AZE,5,0
+2019,Libya,Belgium,LBY,BEL,81,55
+2019,Libya,Belarus,LBY,BLR,8,0
+2019,Libya,"Bosnia and Herzegovina",LBY,BIH,0,5
+2019,Libya,Cyprus,LBY,CYP,10,5
+2019,Libya,Czechia,LBY,CZE,15,0
+2019,Libya,Denmark,LBY,DNK,7,5
+2019,Libya,Finland,LBY,FIN,27,5
+2019,Libya,France,LBY,FRA,1028,631
+2019,Libya,"United Kingdom of Great Britain and Northern Ireland",LBY,GBR,3755,896
+2019,Libya,Germany,LBY,DEU,1987,1179
+2019,Libya,Greece,LBY,GRC,40,38
+2019,Libya,Croatia,LBY,HRV,5,0
+2019,Libya,Hungary,LBY,HUN,7,0
+2019,Libya,Iceland,LBY,ISL,8,0
+2019,Libya,Ireland,LBY,IRL,220,16
+2019,Libya,Italy,LBY,ITA,1436,192
+2019,Libya,Luxembourg,LBY,LUX,5,30
+2019,Libya,"Rep. of Moldova",LBY,MDA,0,5
+2019,Libya,Montenegro,LBY,MNE,0,6
+2019,Libya,Malta,LBY,MLT,2748,357
+2019,Libya,"Netherlands (Kingdom of the)",LBY,NLD,278,164
+2019,Libya,Norway,LBY,NOR,61,7
+2019,Libya,Poland,LBY,POL,31,7
+2019,Libya,Portugal,LBY,PRT,15,10
+2019,Libya,Romania,LBY,ROU,0,30
+2019,Libya,Spain,LBY,ESP,51,140
+2019,Libya,"Serbia and Kosovo: S/RES/1244 (1999)",LBY,SRB,45,0
+2019,Libya,Sweden,LBY,SWE,393,90
+2019,Libya,Switzerland,LBY,CHE,312,50
+2019,Libya,Ukraine,LBY,UKR,0,19
+2019,Lebanon,Armenia,LBN,ARM,24,0
+2019,Lebanon,Austria,LBN,AUT,107,125
+2019,Lebanon,Belgium,LBN,BEL,121,81
+2019,Lebanon,Bulgaria,LBN,BGR,28,5
+2019,Lebanon,Cyprus,LBN,CYP,52,99
+2019,Lebanon,Czechia,LBN,CZE,5,8
+2019,Lebanon,Denmark,LBN,DNK,26,13
+2019,Lebanon,Finland,LBN,FIN,12,5
+2019,Lebanon,France,LBN,FRA,147,38
+2019,Lebanon,"United Kingdom of Great Britain and Northern Ireland",LBN,GBR,180,126
+2019,Lebanon,Georgia,LBN,GEO,6,7
+2019,Lebanon,Germany,LBN,DEU,1656,2245
+2019,Lebanon,Greece,LBN,GRC,55,55
+2019,Lebanon,Hungary,LBN,HUN,5,0
+2019,Lebanon,Ireland,LBN,IRL,5,10
+2019,Lebanon,Italy,LBN,ITA,372,97
+2019,Lebanon,Luxembourg,LBN,LUX,0,5
+2019,Lebanon,Latvia,LBN,LVA,5,0
+2019,Lebanon,Malta,LBN,MLT,0,5
+2019,Lebanon,"Netherlands (Kingdom of the)",LBN,NLD,50,107
+2019,Lebanon,Norway,LBN,NOR,25,0
+2019,Lebanon,Poland,LBN,POL,0,22
+2019,Lebanon,Romania,LBN,ROU,5,0
+2019,Lebanon,"Russian Federation",LBN,RUS,6,0
+2019,Lebanon,Spain,LBN,ESP,25,175
+2019,Lebanon,Sweden,LBN,SWE,542,455
+2019,Lebanon,Switzerland,LBN,CHE,43,20
+2019,Lebanon,Ukraine,LBN,UKR,8,16
+2019,Mauritania,Austria,MRT,AUT,5,5
+2019,Mauritania,Belgium,MRT,BEL,271,80
+2019,Mauritania,Denmark,MRT,DNK,0,5
+2019,Mauritania,France,MRT,FRA,5675,1307
+2019,Mauritania,"United Kingdom of Great Britain and Northern Ireland",MRT,GBR,6,5
+2019,Mauritania,Germany,MRT,DEU,41,97
+2019,Mauritania,Greece,MRT,GRC,55,18
+2019,Mauritania,Croatia,MRT,HRV,5,0
+2019,Mauritania,Italy,MRT,ITA,355,8
+2019,Mauritania,Luxembourg,MRT,LUX,0,5
+2019,Mauritania,"Netherlands (Kingdom of the)",MRT,NLD,5,5
+2019,Mauritania,Norway,MRT,NOR,5,0
+2019,Mauritania,Portugal,MRT,PRT,5,0
+2019,Mauritania,Spain,MRT,ESP,5,120
+2019,Mauritania,Sweden,MRT,SWE,13,5
+2019,Mauritania,Switzerland,MRT,CHE,10,5
+2019,Morocco,Austria,MAR,AUT,36,111
+2019,Morocco,Belgium,MAR,BEL,145,109
+2019,Morocco,Bulgaria,MAR,BGR,5,0
+2019,Morocco,Cyprus,MAR,CYP,0,7
+2019,Morocco,Czechia,MAR,CZE,5,0
+2019,Morocco,Denmark,MAR,DNK,8,34
+2019,Morocco,Finland,MAR,FIN,40,30
+2019,Morocco,France,MAR,FRA,794,518
+2019,Morocco,"United Kingdom of Great Britain and Northern Ireland",MAR,GBR,220,206
+2019,Morocco,Georgia,MAR,GEO,0,5
+2019,Morocco,Germany,MAR,DEU,800,1147
+2019,Morocco,Greece,MAR,GRC,175,265
+2019,Morocco,Croatia,MAR,HRV,0,12
+2019,Morocco,Iceland,MAR,ISL,5,13
+2019,Morocco,Ireland,MAR,IRL,10,46
+2019,Morocco,Italy,MAR,ITA,1284,1102
+2019,Morocco,Luxembourg,MAR,LUX,0,30
+2019,Morocco,"North Macedonia",MAR,MKD,0,13
+2019,Morocco,Montenegro,MAR,MNE,0,261
+2019,Morocco,Malta,MAR,MLT,31,59
+2019,Morocco,"Netherlands (Kingdom of the)",MAR,NLD,49,259
+2019,Morocco,Norway,MAR,NOR,27,10
+2019,Morocco,Portugal,MAR,PRT,9,28
+2019,Morocco,Romania,MAR,ROU,0,46
+2019,Morocco,Spain,MAR,ESP,366,1980
+2019,Morocco,"Serbia and Kosovo: S/RES/1244 (1999)",MAR,SRB,0,20
+2019,Morocco,Slovenia,MAR,SVN,0,60
+2019,Morocco,Sweden,MAR,SWE,250,238
+2019,Morocco,Switzerland,MAR,CHE,68,58
+2019,Morocco,Ukraine,MAR,UKR,0,16
+2019,Oman,"United Kingdom of Great Britain and Northern Ireland",OMN,GBR,19,17
+2019,Oman,Germany,OMN,DEU,9,11
+2019,Oman,Spain,OMN,ESP,0,5
+2019,Qatar,"United Kingdom of Great Britain and Northern Ireland",QAT,GBR,5,10
+2019,Qatar,Germany,QAT,DEU,5,0
+2019,"Saudi Arabia",Austria,SAU,AUT,6,0
+2019,"Saudi Arabia",Belgium,SAU,BEL,8,0
+2019,"Saudi Arabia",Czechia,SAU,CZE,6,0
+2019,"Saudi Arabia",France,SAU,FRA,18,0
+2019,"Saudi Arabia","United Kingdom of Great Britain and Northern Ireland",SAU,GBR,212,152
+2019,"Saudi Arabia",Germany,SAU,DEU,145,39
+2019,"Saudi Arabia",Greece,SAU,GRC,7,0
+2019,"Saudi Arabia",Ireland,SAU,IRL,13,8
+2019,"Saudi Arabia",Italy,SAU,ITA,25,20
+2019,"Saudi Arabia",Malta,SAU,MLT,5,0
+2019,"Saudi Arabia","Netherlands (Kingdom of the)",SAU,NLD,21,10
+2019,"Saudi Arabia",Norway,SAU,NOR,8,0
+2019,"Saudi Arabia",Spain,SAU,ESP,5,5
+2019,"Saudi Arabia",Sweden,SAU,SWE,55,11
+2019,"Saudi Arabia",Switzerland,SAU,CHE,11,9
+2019,"Syrian Arab Rep.",Albania,SYR,ALB,13,0
+2019,"Syrian Arab Rep.",Armenia,SYR,ARM,14730,16
+2019,"Syrian Arab Rep.",Austria,SYR,AUT,51955,1304
+2019,"Syrian Arab Rep.",Azerbaijan,SYR,AZE,20,0
+2019,"Syrian Arab Rep.",Belgium,SYR,BEL,16604,1019
+2019,"Syrian Arab Rep.",Belarus,SYR,BLR,68,0
+2019,"Syrian Arab Rep.","Bosnia and Herzegovina",SYR,BIH,21,46
+2019,"Syrian Arab Rep.",Bulgaria,SYR,BGR,17551,297
+2019,"Syrian Arab Rep.",Cyprus,SYR,CYP,7372,4073
+2019,"Syrian Arab Rep.",Czechia,SYR,CZE,408,18
+2019,"Syrian Arab Rep.",Denmark,SYR,DNK,20046,210
+2019,"Syrian Arab Rep.",Estonia,SYR,EST,127,0
+2019,"Syrian Arab Rep.",Finland,SYR,FIN,2585,77
+2019,"Syrian Arab Rep.",France,SYR,FRA,18244,3244
+2019,"Syrian Arab Rep.","United Kingdom of Great Britain and Northern Ireland",SYR,GBR,10389,1228
+2019,"Syrian Arab Rep.",Georgia,SYR,GEO,91,26
+2019,"Syrian Arab Rep.",Germany,SYR,DEU,572818,41280
+2019,"Syrian Arab Rep.",Greece,SYR,GRC,26696,16165
+2019,"Syrian Arab Rep.",Croatia,SYR,HRV,527,10
+2019,"Syrian Arab Rep.",Hungary,SYR,HUN,934,7
+2019,"Syrian Arab Rep.",Iceland,SYR,ISL,109,19
+2019,"Syrian Arab Rep.",Ireland,SYR,IRL,2882,54
+2019,"Syrian Arab Rep.",Italy,SYR,ITA,4781,917
+2019,"Syrian Arab Rep.",Liechtenstein,SYR,LIE,32,0
+2019,"Syrian Arab Rep.",Lithuania,SYR,LTU,453,6
+2019,"Syrian Arab Rep.",Luxembourg,SYR,LUX,951,200
+2019,"Syrian Arab Rep.",Latvia,SYR,LVA,354,0
+2019,"Syrian Arab Rep.","North Macedonia",SYR,MKD,17,14
+2019,"Syrian Arab Rep.","Rep. of Moldova",SYR,MDA,210,5
+2019,"Syrian Arab Rep.",Montenegro,SYR,MNE,0,14
+2019,"Syrian Arab Rep.",Malta,SYR,MLT,1706,482
+2019,"Syrian Arab Rep.","Netherlands (Kingdom of the)",SYR,NLD,31694,3092
+2019,"Syrian Arab Rep.",Norway,SYR,NOR,14359,252
+2019,"Syrian Arab Rep.",Poland,SYR,POL,542,23
+2019,"Syrian Arab Rep.",Portugal,SYR,PRT,768,5
+2019,"Syrian Arab Rep.",Romania,SYR,ROU,2090,146
+2019,"Syrian Arab Rep.","Russian Federation",SYR,RUS,593,110
+2019,"Syrian Arab Rep.",Spain,SYR,ESP,14133,2805
+2019,"Syrian Arab Rep.","Serbia and Kosovo: S/RES/1244 (1999)",SYR,SRB,25,25
+2019,"Syrian Arab Rep.",Slovakia,SYR,SVK,14,5
+2019,"Syrian Arab Rep.",Slovenia,SYR,SVN,307,15
+2019,"Syrian Arab Rep.",Sweden,SYR,SWE,113418,2226
+2019,"Syrian Arab Rep.",Switzerland,SYR,CHE,18755,918
+2019,"Syrian Arab Rep.",Türkiye,SYR,TUR,3576370,0
+2019,"Syrian Arab Rep.",Ukraine,SYR,UKR,462,161
+2019,Tunisia,Austria,TUN,AUT,7,40
+2019,Tunisia,Belgium,TUN,BEL,54,24
+2019,Tunisia,"Bosnia and Herzegovina",TUN,BIH,0,5
+2019,Tunisia,Bulgaria,TUN,BGR,5,0
+2019,Tunisia,Cyprus,TUN,CYP,0,5
+2019,Tunisia,Czechia,TUN,CZE,0,6
+2019,Tunisia,Denmark,TUN,DNK,0,5
+2019,Tunisia,Finland,TUN,FIN,5,5
+2019,Tunisia,France,TUN,FRA,368,305
+2019,Tunisia,"United Kingdom of Great Britain and Northern Ireland",TUN,GBR,60,60
+2019,Tunisia,Germany,TUN,DEU,218,574
+2019,Tunisia,Greece,TUN,GRC,21,42
+2019,Tunisia,Croatia,TUN,HRV,0,9
+2019,Tunisia,Hungary,TUN,HUN,8,5
+2019,Tunisia,Iceland,TUN,ISL,0,5
+2019,Tunisia,Ireland,TUN,IRL,5,10
+2019,Tunisia,Italy,TUN,ITA,713,315
+2019,Tunisia,Luxembourg,TUN,LUX,0,25
+2019,Tunisia,Malta,TUN,MLT,13,26
+2019,Tunisia,"Netherlands (Kingdom of the)",TUN,NLD,19,80
+2019,Tunisia,Norway,TUN,NOR,5,5
+2019,Tunisia,Poland,TUN,POL,0,5
+2019,Tunisia,Romania,TUN,ROU,0,21
+2019,Tunisia,Spain,TUN,ESP,7,305
+2019,Tunisia,"Serbia and Kosovo: S/RES/1244 (1999)",TUN,SRB,0,5
+2019,Tunisia,Slovenia,TUN,SVN,0,11
+2019,Tunisia,Sweden,TUN,SWE,52,71
+2019,Tunisia,Switzerland,TUN,CHE,205,27
+2019,"United Arab Emirates",Belgium,ARE,BEL,5,0
+2019,"United Arab Emirates","United Kingdom of Great Britain and Northern Ireland",ARE,GBR,23,8
+2019,"United Arab Emirates",Germany,ARE,DEU,39,0
+2019,"United Arab Emirates",Italy,ARE,ITA,5,0
+2019,"United Arab Emirates",Sweden,ARE,SWE,5,0
+2019,"Western Sahara",France,ESH,FRA,715,293
+2019,"Western Sahara","United Kingdom of Great Britain and Northern Ireland",ESH,GBR,12,0
+2019,"Western Sahara",Greece,ESH,GRC,9,11
+2019,"Western Sahara",Italy,ESH,ITA,5,0
+2019,"Western Sahara",Spain,ESH,ESP,19,50
+2019,"Western Sahara",Switzerland,ESH,CHE,9,5
+2019,Yemen,Armenia,YEM,ARM,22,0
+2019,Yemen,Austria,YEM,AUT,311,70
+2019,Yemen,Azerbaijan,YEM,AZE,11,0
+2019,Yemen,Belgium,YEM,BEL,51,56
+2019,Yemen,Belarus,YEM,BLR,24,5
+2019,Yemen,"Bosnia and Herzegovina",YEM,BIH,0,10
+2019,Yemen,Bulgaria,YEM,BGR,13,5
+2019,Yemen,Cyprus,YEM,CYP,25,10
+2019,Yemen,Czechia,YEM,CZE,20,0
+2019,Yemen,Denmark,YEM,DNK,5,0
+2019,Yemen,Estonia,YEM,EST,5,0
+2019,Yemen,Finland,YEM,FIN,263,57
+2019,Yemen,France,YEM,FRA,454,62
+2019,Yemen,"United Kingdom of Great Britain and Northern Ireland",YEM,GBR,819,290
+2019,Yemen,Georgia,YEM,GEO,32,29
+2019,Yemen,Germany,YEM,DEU,2629,890
+2019,Yemen,Greece,YEM,GRC,574,213
+2019,Yemen,Croatia,YEM,HRV,7,0
+2019,Yemen,Hungary,YEM,HUN,18,0
+2019,Yemen,Iceland,YEM,ISL,5,5
+2019,Yemen,Ireland,YEM,IRL,16,7
+2019,Yemen,Italy,YEM,ITA,151,40
+2019,Yemen,Luxembourg,YEM,LUX,10,5
+2019,Yemen,"Rep. of Moldova",YEM,MDA,8,0
+2019,Yemen,Montenegro,YEM,MNE,7,0
+2019,Yemen,Malta,YEM,MLT,0,6
+2019,Yemen,"Netherlands (Kingdom of the)",YEM,NLD,791,546
+2019,Yemen,Norway,YEM,NOR,219,19
+2019,Yemen,Poland,YEM,POL,9,0
+2019,Yemen,Portugal,YEM,PRT,9,0
+2019,Yemen,Romania,YEM,ROU,29,0
+2019,Yemen,"Russian Federation",YEM,RUS,97,20
+2019,Yemen,Spain,YEM,ESP,206,675
+2019,Yemen,"Serbia and Kosovo: S/RES/1244 (1999)",YEM,SRB,0,10
+2019,Yemen,Slovakia,YEM,SVK,21,0
+2019,Yemen,Slovenia,YEM,SVN,6,0
+2019,Yemen,Sweden,YEM,SWE,1659,193
+2019,Yemen,Switzerland,YEM,CHE,130,12
+2019,Yemen,Ukraine,YEM,UKR,5,48
+2020,Algeria,Austria,DZA,AUT,34,123
+2020,Algeria,Belgium,DZA,BEL,70,205
+2020,Algeria,"Bosnia and Herzegovina",DZA,BIH,0,5
+2020,Algeria,Bulgaria,DZA,BGR,0,13
+2020,Algeria,Cyprus,DZA,CYP,8,7
+2020,Algeria,Czechia,DZA,CZE,0,5
+2020,Algeria,Denmark,DZA,DNK,0,16
+2020,Algeria,Finland,DZA,FIN,10,5
+2020,Algeria,France,DZA,FRA,2134,1200
+2020,Algeria,"United Kingdom of Great Britain and Northern Ireland",DZA,GBR,336,403
+2020,Algeria,Germany,DZA,DEU,600,1269
+2020,Algeria,Greece,DZA,GRC,116,310
+2020,Algeria,Croatia,DZA,HRV,0,5
+2020,Algeria,Hungary,DZA,HUN,14,0
+2020,Algeria,Ireland,DZA,IRL,64,221
+2020,Algeria,Italy,DZA,ITA,0,127
+2020,Algeria,Luxembourg,DZA,LUX,0,15
+2020,Algeria,Montenegro,DZA,MNE,0,10
+2020,Algeria,Malta,DZA,MLT,0,28
+2020,Algeria,"Netherlands (Kingdom of the)",DZA,NLD,16,343
+2020,Algeria,Norway,DZA,NOR,6,5
+2020,Algeria,Poland,DZA,POL,0,5
+2020,Algeria,Portugal,DZA,PRT,0,9
+2020,Algeria,Romania,DZA,ROU,0,12
+2020,Algeria,Spain,DZA,ESP,65,1280
+2020,Algeria,"Serbia and Kosovo: S/RES/1244 (1999)",DZA,SRB,0,20
+2020,Algeria,Slovakia,DZA,SVK,0,6
+2020,Algeria,Slovenia,DZA,SVN,0,5
+2020,Algeria,Sweden,DZA,SWE,61,62
+2020,Algeria,Switzerland,DZA,CHE,178,234
+2020,Algeria,Ukraine,DZA,UKR,0,9
+2020,Egypt,Albania,EGY,ALB,5,0
+2020,Egypt,Armenia,EGY,ARM,5,0
+2020,Egypt,Austria,EGY,AUT,231,141
+2020,Egypt,Belgium,EGY,BEL,98,95
+2020,Egypt,Bulgaria,EGY,BGR,14,12
+2020,Egypt,Cyprus,EGY,CYP,119,842
+2020,Egypt,Czechia,EGY,CZE,8,6
+2020,Egypt,Denmark,EGY,DNK,16,10
+2020,Egypt,Estonia,EGY,EST,5,0
+2020,Egypt,Finland,EGY,FIN,26,28
+2020,Egypt,France,EGY,FRA,1121,556
+2020,Egypt,"United Kingdom of Great Britain and Northern Ireland",EGY,GBR,938,662
+2020,Egypt,Georgia,EGY,GEO,64,122
+2020,Egypt,Germany,EGY,DEU,2298,1481
+2020,Egypt,Greece,EGY,GRC,388,1535
+2020,Egypt,Croatia,EGY,HRV,8,0
+2020,Egypt,Hungary,EGY,HUN,11,0
+2020,Egypt,Iceland,EGY,ISL,10,0
+2020,Egypt,Ireland,EGY,IRL,43,68
+2020,Egypt,Italy,EGY,ITA,786,521
+2020,Egypt,Latvia,EGY,LVA,5,0
+2020,Egypt,Malta,EGY,MLT,75,91
+2020,Egypt,"Netherlands (Kingdom of the)",EGY,NLD,233,197
+2020,Egypt,Norway,EGY,NOR,56,0
+2020,Egypt,Poland,EGY,POL,40,5
+2020,Egypt,Portugal,EGY,PRT,0,18
+2020,Egypt,Romania,EGY,ROU,17,10
+2020,Egypt,"Russian Federation",EGY,RUS,5,0
+2020,Egypt,Spain,EGY,ESP,71,100
+2020,Egypt,Slovakia,EGY,SVK,5,5
+2020,Egypt,Sweden,EGY,SWE,409,295
+2020,Egypt,Switzerland,EGY,CHE,120,17
+2020,Egypt,Ukraine,EGY,UKR,5,15
+2020,Bahrain,France,BHR,FRA,10,0
+2020,Bahrain,"United Kingdom of Great Britain and Northern Ireland",BHR,GBR,181,8
+2020,Bahrain,Germany,BHR,DEU,80,5
+2020,Bahrain,Ireland,BHR,IRL,6,10
+2020,Bahrain,"Netherlands (Kingdom of the)",BHR,NLD,10,0
+2020,Bahrain,Sweden,BHR,SWE,17,5
+2020,Palestinian,Albania,PSE,ALB,5,0
+2020,Palestinian,Armenia,PSE,ARM,7,0
+2020,Palestinian,Azerbaijan,PSE,AZE,5,0
+2020,Palestinian,Belgium,PSE,BEL,1224,3275
+2020,Palestinian,Belarus,PSE,BLR,5,0
+2020,Palestinian,"Bosnia and Herzegovina",PSE,BIH,0,5
+2020,Palestinian,Cyprus,PSE,CYP,2105,247
+2020,Palestinian,Denmark,PSE,DNK,9,0
+2020,Palestinian,France,PSE,FRA,1256,177
+2020,Palestinian,"United Kingdom of Great Britain and Northern Ireland",PSE,GBR,647,435
+2020,Palestinian,Georgia,PSE,GEO,0,17
+2020,Palestinian,Germany,PSE,DEU,2066,497
+2020,Palestinian,Greece,PSE,GRC,4723,524
+2020,Palestinian,Hungary,PSE,HUN,90,0
+2020,Palestinian,Iceland,PSE,ISL,74,84
+2020,Palestinian,Ireland,PSE,IRL,138,32
+2020,Palestinian,Italy,PSE,ITA,677,149
+2020,Palestinian,Luxembourg,PSE,LUX,0,27
+2020,Palestinian,Latvia,PSE,LVA,7,0
+2020,Palestinian,"Rep. of Moldova",PSE,MDA,5,0
+2020,Palestinian,Montenegro,PSE,MNE,0,8
+2020,Palestinian,Malta,PSE,MLT,70,15
+2020,Palestinian,"Netherlands (Kingdom of the)",PSE,NLD,160,21
+2020,Palestinian,Poland,PSE,POL,5,5
+2020,Palestinian,Portugal,PSE,PRT,5,5
+2020,Palestinian,Romania,PSE,ROU,55,8
+2020,Palestinian,"Russian Federation",PSE,RUS,5,0
+2020,Palestinian,Spain,PSE,ESP,1295,540
+2020,Palestinian,"Serbia and Kosovo: S/RES/1244 (1999)",PSE,SRB,0,20
+2020,Palestinian,Slovakia,PSE,SVK,7,0
+2020,Palestinian,Slovenia,PSE,SVN,25,5
+2020,Palestinian,Sweden,PSE,SWE,1256,698
+2020,Palestinian,Ukraine,PSE,UKR,10,40
+2020,Iraq,Albania,IRQ,ALB,5,0
+2020,Iraq,Armenia,IRQ,ARM,1086,0
+2020,Iraq,Austria,IRQ,AUT,9152,3467
+2020,Iraq,Azerbaijan,IRQ,AZE,10,0
+2020,Iraq,Belgium,IRQ,BEL,5515,1235
+2020,Iraq,Belarus,IRQ,BLR,12,5
+2020,Iraq,"Bosnia and Herzegovina",IRQ,BIH,0,37
+2020,Iraq,Bulgaria,IRQ,BGR,1235,27
+2020,Iraq,Cyprus,IRQ,CYP,962,228
+2020,Iraq,Czechia,IRQ,CZE,109,5
+2020,Iraq,Denmark,IRQ,DNK,289,49
+2020,Iraq,Estonia,IRQ,EST,22,0
+2020,Iraq,Finland,IRQ,FIN,8938,2633
+2020,Iraq,France,IRQ,FRA,9075,1307
+2020,Iraq,"United Kingdom of Great Britain and Northern Ireland",IRQ,GBR,6399,6090
+2020,Iraq,Georgia,IRQ,GEO,406,69
+2020,Iraq,Germany,IRQ,DEU,146009,27400
+2020,Iraq,Greece,IRQ,GRC,11840,4229
+2020,Iraq,Croatia,IRQ,HRV,113,49
+2020,Iraq,Hungary,IRQ,HUN,635,6
+2020,Iraq,Iceland,IRQ,ISL,297,6
+2020,Iraq,Ireland,IRQ,IRL,425,65
+2020,Iraq,Italy,IRQ,ITA,4938,1119
+2020,Iraq,Liechtenstein,IRQ,LIE,7,5
+2020,Iraq,Lithuania,IRQ,LTU,65,15
+2020,Iraq,Luxembourg,IRQ,LUX,773,59
+2020,Iraq,Latvia,IRQ,LVA,39,0
+2020,Iraq,"Rep. of Moldova",IRQ,MDA,17,0
+2020,Iraq,Malta,IRQ,MLT,81,0
+2020,Iraq,"Netherlands (Kingdom of the)",IRQ,NLD,7197,497
+2020,Iraq,Norway,IRQ,NOR,1207,57
+2020,Iraq,Poland,IRQ,POL,111,31
+2020,Iraq,Portugal,IRQ,PRT,187,0
+2020,Iraq,Romania,IRQ,ROU,594,170
+2020,Iraq,"Russian Federation",IRQ,RUS,16,0
+2020,Iraq,Spain,IRQ,ESP,295,220
+2020,Iraq,"Serbia and Kosovo: S/RES/1244 (1999)",IRQ,SRB,13,21
+2020,Iraq,Slovakia,IRQ,SVK,214,0
+2020,Iraq,Slovenia,IRQ,SVN,53,6
+2020,Iraq,Sweden,IRQ,SWE,11635,1430
+2020,Iraq,Switzerland,IRQ,CHE,4635,324
+2020,Iraq,Türkiye,IRQ,TUR,4565,162760
+2020,Iraq,Ukraine,IRQ,UKR,79,75
+2020,Israel,Austria,ISR,AUT,10,0
+2020,Israel,Belgium,ISR,BEL,0,5
+2020,Israel,France,ISR,FRA,8,0
+2020,Israel,"United Kingdom of Great Britain and Northern Ireland",ISR,GBR,7,16
+2020,Israel,Germany,ISR,DEU,40,26
+2020,Israel,Ireland,ISR,IRL,12,0
+2020,Israel,Norway,ISR,NOR,8,0
+2020,Israel,Spain,ISR,ESP,0,15
+2020,Israel,Sweden,ISR,SWE,24,10
+2020,Israel,Switzerland,ISR,CHE,6,0
+2020,Jordan,Austria,JOR,AUT,76,28
+2020,Jordan,Belgium,JOR,BEL,23,70
+2020,Jordan,Bulgaria,JOR,BGR,6,0
+2020,Jordan,Cyprus,JOR,CYP,40,94
+2020,Jordan,Denmark,JOR,DNK,0,5
+2020,Jordan,Finland,JOR,FIN,5,0
+2020,Jordan,France,JOR,FRA,33,5
+2020,Jordan,"United Kingdom of Great Britain and Northern Ireland",JOR,GBR,88,120
+2020,Jordan,Georgia,JOR,GEO,0,70
+2020,Jordan,Germany,JOR,DEU,485,426
+2020,Jordan,Greece,JOR,GRC,38,11
+2020,Jordan,Ireland,JOR,IRL,6,15
+2020,Jordan,Italy,JOR,ITA,0,21
+2020,Jordan,Malta,JOR,MLT,5,0
+2020,Jordan,"Netherlands (Kingdom of the)",JOR,NLD,32,128
+2020,Jordan,Norway,JOR,NOR,6,0
+2020,Jordan,Poland,JOR,POL,0,5
+2020,Jordan,Portugal,JOR,PRT,0,13
+2020,Jordan,Romania,JOR,ROU,6,0
+2020,Jordan,Spain,JOR,ESP,30,30
+2020,Jordan,"Serbia and Kosovo: S/RES/1244 (1999)",JOR,SRB,0,7
+2020,Jordan,Sweden,JOR,SWE,279,185
+2020,Jordan,Switzerland,JOR,CHE,57,0
+2020,Jordan,Ukraine,JOR,UKR,5,5
+2020,Kuwait,Austria,KWT,AUT,9,14
+2020,Kuwait,Belgium,KWT,BEL,6,10
+2020,Kuwait,France,KWT,FRA,224,310
+2020,Kuwait,"United Kingdom of Great Britain and Northern Ireland",KWT,GBR,670,454
+2020,Kuwait,Germany,KWT,DEU,39,33
+2020,Kuwait,Greece,KWT,GRC,133,45
+2020,Kuwait,Ireland,KWT,IRL,52,18
+2020,Kuwait,Luxembourg,KWT,LUX,0,5
+2020,Kuwait,"Netherlands (Kingdom of the)",KWT,NLD,5,7
+2020,Kuwait,Romania,KWT,ROU,0,5
+2020,Kuwait,Spain,KWT,ESP,0,5
+2020,Kuwait,Sweden,KWT,SWE,33,15
+2020,Libya,Austria,LBY,AUT,139,54
+2020,Libya,Azerbaijan,LBY,AZE,5,0
+2020,Libya,Belgium,LBY,BEL,75,130
+2020,Libya,Belarus,LBY,BLR,7,0
+2020,Libya,"Bosnia and Herzegovina",LBY,BIH,0,5
+2020,Libya,Cyprus,LBY,CYP,12,5
+2020,Libya,Czechia,LBY,CZE,20,7
+2020,Libya,Denmark,LBY,DNK,5,6
+2020,Libya,Finland,LBY,FIN,32,5
+2020,Libya,France,LBY,FRA,1298,627
+2020,Libya,"United Kingdom of Great Britain and Northern Ireland",LBY,GBR,4352,816
+2020,Libya,Germany,LBY,DEU,2545,935
+2020,Libya,Greece,LBY,GRC,61,50
+2020,Libya,Croatia,LBY,HRV,5,5
+2020,Libya,Hungary,LBY,HUN,7,0
+2020,Libya,Iceland,LBY,ISL,8,0
+2020,Libya,Ireland,LBY,IRL,241,22
+2020,Libya,Italy,LBY,ITA,1027,251
+2020,Libya,Luxembourg,LBY,LUX,5,9
+2020,Libya,"Rep. of Moldova",LBY,MDA,5,0
+2020,Libya,Malta,LBY,MLT,2815,264
+2020,Libya,"Netherlands (Kingdom of the)",LBY,NLD,246,133
+2020,Libya,Norway,LBY,NOR,56,5
+2020,Libya,Poland,LBY,POL,19,6
+2020,Libya,Portugal,LBY,PRT,15,0
+2020,Libya,Romania,LBY,ROU,5,8
+2020,Libya,Spain,LBY,ESP,133,55
+2020,Libya,"Serbia and Kosovo: S/RES/1244 (1999)",LBY,SRB,45,29
+2020,Libya,Slovakia,LBY,SVK,6,0
+2020,Libya,Slovenia,LBY,SVN,0,5
+2020,Libya,Sweden,LBY,SWE,384,65
+2020,Libya,Switzerland,LBY,CHE,310,42
+2020,Libya,Ukraine,LBY,UKR,5,13
+2020,Lebanon,Armenia,LBN,ARM,25,5
+2020,Lebanon,Austria,LBN,AUT,112,73
+2020,Lebanon,Belgium,LBN,BEL,105,165
+2020,Lebanon,Bulgaria,LBN,BGR,29,9
+2020,Lebanon,Cyprus,LBN,CYP,52,106
+2020,Lebanon,Czechia,LBN,CZE,5,0
+2020,Lebanon,Denmark,LBN,DNK,30,6
+2020,Lebanon,Finland,LBN,FIN,13,5
+2020,Lebanon,France,LBN,FRA,167,191
+2020,Lebanon,"United Kingdom of Great Britain and Northern Ireland",LBN,GBR,179,159
+2020,Lebanon,Georgia,LBN,GEO,6,22
+2020,Lebanon,Germany,LBN,DEU,1775,1888
+2020,Lebanon,Greece,LBN,GRC,67,61
+2020,Lebanon,Hungary,LBN,HUN,5,0
+2020,Lebanon,Ireland,LBN,IRL,9,9
+2020,Lebanon,Italy,LBN,ITA,0,55
+2020,Lebanon,Luxembourg,LBN,LUX,5,5
+2020,Lebanon,Latvia,LBN,LVA,5,0
+2020,Lebanon,"Netherlands (Kingdom of the)",LBN,NLD,65,124
+2020,Lebanon,Norway,LBN,NOR,25,0
+2020,Lebanon,Poland,LBN,POL,0,7
+2020,Lebanon,Romania,LBN,ROU,5,0
+2020,Lebanon,"Russian Federation",LBN,RUS,6,0
+2020,Lebanon,Spain,LBN,ESP,28,95
+2020,Lebanon,"Serbia and Kosovo: S/RES/1244 (1999)",LBN,SRB,0,5
+2020,Lebanon,Sweden,LBN,SWE,523,267
+2020,Lebanon,Switzerland,LBN,CHE,44,23
+2020,Lebanon,Ukraine,LBN,UKR,8,14
+2020,Mauritania,Austria,MRT,AUT,5,0
+2020,Mauritania,Belgium,MRT,BEL,269,185
+2020,Mauritania,France,MRT,FRA,5891,1773
+2020,Mauritania,"United Kingdom of Great Britain and Northern Ireland",MRT,GBR,7,7
+2020,Mauritania,Germany,MRT,DEU,58,82
+2020,Mauritania,Greece,MRT,GRC,63,14
+2020,Mauritania,Croatia,MRT,HRV,5,0
+2020,Mauritania,Italy,MRT,ITA,286,6
+2020,Mauritania,Malta,MRT,MLT,0,5
+2020,Mauritania,"Netherlands (Kingdom of the)",MRT,NLD,5,5
+2020,Mauritania,Norway,MRT,NOR,5,0
+2020,Mauritania,Portugal,MRT,PRT,0,5
+2020,Mauritania,Spain,MRT,ESP,18,75
+2020,Mauritania,Sweden,MRT,SWE,13,0
+2020,Mauritania,Switzerland,MRT,CHE,8,0
+2020,Morocco,Austria,MAR,AUT,39,187
+2020,Morocco,Belgium,MAR,BEL,142,275
+2020,Morocco,"Bosnia and Herzegovina",MAR,BIH,0,15
+2020,Morocco,Bulgaria,MAR,BGR,5,19
+2020,Morocco,Cyprus,MAR,CYP,0,6
+2020,Morocco,Czechia,MAR,CZE,5,0
+2020,Morocco,Denmark,MAR,DNK,9,50
+2020,Morocco,Finland,MAR,FIN,43,21
+2020,Morocco,France,MAR,FRA,920,561
+2020,Morocco,"United Kingdom of Great Britain and Northern Ireland",MAR,GBR,223,310
+2020,Morocco,Georgia,MAR,GEO,0,6
+2020,Morocco,Germany,MAR,DEU,835,1170
+2020,Morocco,Greece,MAR,GRC,202,207
+2020,Morocco,Croatia,MAR,HRV,0,8
+2020,Morocco,Iceland,MAR,ISL,5,5
+2020,Morocco,Ireland,MAR,IRL,12,58
+2020,Morocco,Italy,MAR,ITA,699,787
+2020,Morocco,Luxembourg,MAR,LUX,0,14
+2020,Morocco,Montenegro,MAR,MNE,0,56
+2020,Morocco,Malta,MAR,MLT,29,94
+2020,Morocco,"Netherlands (Kingdom of the)",MAR,NLD,58,267
+2020,Morocco,Norway,MAR,NOR,17,0
+2020,Morocco,Poland,MAR,POL,0,5
+2020,Morocco,Portugal,MAR,PRT,9,52
+2020,Morocco,Romania,MAR,ROU,0,20
+2020,Morocco,Spain,MAR,ESP,544,2105
+2020,Morocco,"Serbia and Kosovo: S/RES/1244 (1999)",MAR,SRB,0,29
+2020,Morocco,Slovakia,MAR,SVK,0,10
+2020,Morocco,Slovenia,MAR,SVN,0,8
+2020,Morocco,Sweden,MAR,SWE,259,176
+2020,Morocco,Switzerland,MAR,CHE,79,93
+2020,Morocco,Ukraine,MAR,UKR,0,11
+2020,Oman,"United Kingdom of Great Britain and Northern Ireland",OMN,GBR,20,22
+2020,Oman,Germany,OMN,DEU,8,10
+2020,Oman,Spain,OMN,ESP,0,5
+2020,Qatar,"United Kingdom of Great Britain and Northern Ireland",QAT,GBR,8,13
+2020,Qatar,Germany,QAT,DEU,5,0
+2020,"Saudi Arabia",Austria,SAU,AUT,6,0
+2020,"Saudi Arabia",Belgium,SAU,BEL,8,5
+2020,"Saudi Arabia",Czechia,SAU,CZE,6,0
+2020,"Saudi Arabia",France,SAU,FRA,34,5
+2020,"Saudi Arabia","United Kingdom of Great Britain and Northern Ireland",SAU,GBR,256,148
+2020,"Saudi Arabia",Georgia,SAU,GEO,0,5
+2020,"Saudi Arabia",Germany,SAU,DEU,178,12
+2020,"Saudi Arabia",Greece,SAU,GRC,7,5
+2020,"Saudi Arabia",Ireland,SAU,IRL,16,7
+2020,"Saudi Arabia",Malta,SAU,MLT,5,0
+2020,"Saudi Arabia","Netherlands (Kingdom of the)",SAU,NLD,25,6
+2020,"Saudi Arabia",Norway,SAU,NOR,8,0
+2020,"Saudi Arabia",Spain,SAU,ESP,5,5
+2020,"Saudi Arabia",Sweden,SAU,SWE,62,5
+2020,"Saudi Arabia",Switzerland,SAU,CHE,17,0
+2020,"Syrian Arab Rep.",Albania,SYR,ALB,9,0
+2020,"Syrian Arab Rep.",Armenia,SYR,ARM,14741,5
+2020,"Syrian Arab Rep.",Austria,SYR,AUT,54903,2820
+2020,"Syrian Arab Rep.",Azerbaijan,SYR,AZE,34,0
+2020,"Syrian Arab Rep.",Belgium,SYR,BEL,17693,2165
+2020,"Syrian Arab Rep.",Belarus,SYR,BLR,64,8
+2020,"Syrian Arab Rep.","Bosnia and Herzegovina",SYR,BIH,22,10
+2020,"Syrian Arab Rep.",Bulgaria,SYR,BGR,18310,593
+2020,"Syrian Arab Rep.",Cyprus,SYR,CYP,8797,4415
+2020,"Syrian Arab Rep.",Czechia,SYR,CZE,386,12
+2020,"Syrian Arab Rep.",Denmark,SYR,DNK,19878,281
+2020,"Syrian Arab Rep.",Estonia,SYR,EST,105,0
+2020,"Syrian Arab Rep.",Finland,SYR,FIN,2620,84
+2020,"Syrian Arab Rep.",France,SYR,FRA,21849,2587
+2020,"Syrian Arab Rep.","United Kingdom of Great Britain and Northern Ireland",SYR,GBR,10919,2231
+2020,"Syrian Arab Rep.",Georgia,SYR,GEO,437,20
+2020,"Syrian Arab Rep.",Germany,SYR,DEU,605338,37219
+2020,"Syrian Arab Rep.",Greece,SYR,GRC,36448,5965
+2020,"Syrian Arab Rep.",Croatia,SYR,HRV,539,26
+2020,"Syrian Arab Rep.",Hungary,SYR,HUN,923,0
+2020,"Syrian Arab Rep.",Iceland,SYR,ISL,167,5
+2020,"Syrian Arab Rep.",Ireland,SYR,IRL,3126,67
+2020,"Syrian Arab Rep.",Italy,SYR,ITA,3508,1037
+2020,"Syrian Arab Rep.",Liechtenstein,SYR,LIE,32,0
+2020,"Syrian Arab Rep.",Lithuania,SYR,LTU,463,5
+2020,"Syrian Arab Rep.",Luxembourg,SYR,LUX,2069,340
+2020,"Syrian Arab Rep.",Latvia,SYR,LVA,314,5
+2020,"Syrian Arab Rep.","North Macedonia",SYR,MKD,17,5
+2020,"Syrian Arab Rep.","Rep. of Moldova",SYR,MDA,190,5
+2020,"Syrian Arab Rep.",Montenegro,SYR,MNE,0,9
+2020,"Syrian Arab Rep.",Malta,SYR,MLT,1871,381
+2020,"Syrian Arab Rep.","Netherlands (Kingdom of the)",SYR,NLD,35810,2280
+2020,"Syrian Arab Rep.",Norway,SYR,NOR,15311,340
+2020,"Syrian Arab Rep.",Poland,SYR,POL,237,39
+2020,"Syrian Arab Rep.",Portugal,SYR,PRT,789,0
+2020,"Syrian Arab Rep.",Romania,SYR,ROU,2002,215
+2020,"Syrian Arab Rep.","Russian Federation",SYR,RUS,361,54
+2020,"Syrian Arab Rep.",Spain,SYR,ESP,14660,1545
+2020,"Syrian Arab Rep.","Serbia and Kosovo: S/RES/1244 (1999)",SYR,SRB,31,40
+2020,"Syrian Arab Rep.",Slovakia,SYR,SVK,21,5
+2020,"Syrian Arab Rep.",Slovenia,SYR,SVN,322,16
+2020,"Syrian Arab Rep.",Sweden,SYR,SWE,114609,1544
+2020,"Syrian Arab Rep.",Switzerland,SYR,CHE,19869,236
+2020,"Syrian Arab Rep.",Türkiye,SYR,TUR,3641370,0
+2020,"Syrian Arab Rep.",Ukraine,SYR,UKR,491,171
+2020,Tunisia,Austria,TUN,AUT,7,58
+2020,Tunisia,Belgium,TUN,BEL,53,80
+2020,Tunisia,Bulgaria,TUN,BGR,5,11
+2020,Tunisia,Czechia,TUN,CZE,0,7
+2020,Tunisia,Denmark,TUN,DNK,0,5
+2020,Tunisia,Finland,TUN,FIN,5,10
+2020,Tunisia,France,TUN,FRA,397,294
+2020,Tunisia,"United Kingdom of Great Britain and Northern Ireland",TUN,GBR,65,75
+2020,Tunisia,Germany,TUN,DEU,234,606
+2020,Tunisia,Greece,TUN,GRC,22,35
+2020,Tunisia,Hungary,TUN,HUN,8,0
+2020,Tunisia,Iceland,TUN,ISL,5,0
+2020,Tunisia,Ireland,TUN,IRL,7,6
+2020,Tunisia,Italy,TUN,ITA,211,447
+2020,Tunisia,Luxembourg,TUN,LUX,0,12
+2020,Tunisia,Malta,TUN,MLT,13,19
+2020,Tunisia,"Netherlands (Kingdom of the)",TUN,NLD,22,120
+2020,Tunisia,Norway,TUN,NOR,5,0
+2020,Tunisia,Romania,TUN,ROU,5,5
+2020,Tunisia,Spain,TUN,ESP,29,255
+2020,Tunisia,Sweden,TUN,SWE,51,53
+2020,Tunisia,Switzerland,TUN,CHE,185,45
+2020,Tunisia,Ukraine,TUN,UKR,0,5
+2020,"United Arab Emirates",France,ARE,FRA,5,0
+2020,"United Arab Emirates","United Kingdom of Great Britain and Northern Ireland",ARE,GBR,25,13
+2020,"United Arab Emirates",Germany,ARE,DEU,38,0
+2020,"United Arab Emirates",Italy,ARE,ITA,0,5
+2020,"United Arab Emirates",Sweden,ARE,SWE,5,0
+2020,"Western Sahara",France,ESH,FRA,744,406
+2020,"Western Sahara","United Kingdom of Great Britain and Northern Ireland",ESH,GBR,11,0
+2020,"Western Sahara",Greece,ESH,GRC,10,6
+2020,"Western Sahara",Italy,ESH,ITA,0,5
+2020,"Western Sahara",Spain,ESH,ESP,24,20
+2020,"Western Sahara",Switzerland,ESH,CHE,9,5
+2020,Yemen,Armenia,YEM,ARM,21,0
+2020,Yemen,Austria,YEM,AUT,355,79
+2020,Yemen,Azerbaijan,YEM,AZE,11,0
+2020,Yemen,Belgium,YEM,BEL,77,200
+2020,Yemen,Belarus,YEM,BLR,28,6
+2020,Yemen,"Bosnia and Herzegovina",YEM,BIH,6,7
+2020,Yemen,Bulgaria,YEM,BGR,15,7
+2020,Yemen,Cyprus,YEM,CYP,27,20
+2020,Yemen,Czechia,YEM,CZE,24,5
+2020,Yemen,Denmark,YEM,DNK,7,0
+2020,Yemen,Estonia,YEM,EST,5,0
+2020,Yemen,Finland,YEM,FIN,297,27
+2020,Yemen,France,YEM,FRA,566,239
+2020,Yemen,"United Kingdom of Great Britain and Northern Ireland",YEM,GBR,981,604
+2020,Yemen,Georgia,YEM,GEO,40,18
+2020,Yemen,Germany,YEM,DEU,3039,840
+2020,Yemen,Greece,YEM,GRC,853,47
+2020,Yemen,Croatia,YEM,HRV,7,0
+2020,Yemen,Hungary,YEM,HUN,16,0
+2020,Yemen,Iceland,YEM,ISL,9,0
+2020,Yemen,Ireland,YEM,IRL,20,6
+2020,Yemen,Italy,YEM,ITA,0,56
+2020,Yemen,Luxembourg,YEM,LUX,20,10
+2020,Yemen,"Rep. of Moldova",YEM,MDA,8,0
+2020,Yemen,Montenegro,YEM,MNE,7,0
+2020,Yemen,Malta,YEM,MLT,5,6
+2020,Yemen,"Netherlands (Kingdom of the)",YEM,NLD,1392,229
+2020,Yemen,Norway,YEM,NOR,192,12
+2020,Yemen,Poland,YEM,POL,13,9
+2020,Yemen,Portugal,YEM,PRT,9,0
+2020,Yemen,Romania,YEM,ROU,41,0
+2020,Yemen,"Russian Federation",YEM,RUS,88,11
+2020,Yemen,Spain,YEM,ESP,316,410
+2020,Yemen,Slovakia,YEM,SVK,21,0
+2020,Yemen,Slovenia,YEM,SVN,6,0
+2020,Yemen,Sweden,YEM,SWE,1822,83
+2020,Yemen,Switzerland,YEM,CHE,341,5
+2020,Yemen,Ukraine,YEM,UKR,5,46
+2021,Algeria,Austria,DZA,AUT,28,173
+2021,Algeria,Belgium,DZA,BEL,70,220
+2021,Algeria,Bulgaria,DZA,BGR,0,27
+2021,Algeria,Cyprus,DZA,CYP,8,0
+2021,Algeria,Czechia,DZA,CZE,0,8
+2021,Algeria,Denmark,DZA,DNK,0,10
+2021,Algeria,Finland,DZA,FIN,7,6
+2021,Algeria,France,DZA,FRA,3209,484
+2021,Algeria,"United Kingdom of Great Britain and Northern Ireland",DZA,GBR,312,529
+2021,Algeria,Georgia,DZA,GEO,0,5
+2021,Algeria,Germany,DZA,DEU,630,1223
+2021,Algeria,Greece,DZA,GRC,132,132
+2021,Algeria,Hungary,DZA,HUN,14,0
+2021,Algeria,Ireland,DZA,IRL,68,301
+2021,Algeria,Italy,DZA,ITA,27,124
+2021,Algeria,Luxembourg,DZA,LUX,0,20
+2021,Algeria,Montenegro,DZA,MNE,0,9
+2021,Algeria,Malta,DZA,MLT,0,27
+2021,Algeria,"Netherlands (Kingdom of the)",DZA,NLD,19,519
+2021,Algeria,Norway,DZA,NOR,6,5
+2021,Algeria,Portugal,DZA,PRT,0,19
+2021,Algeria,Romania,DZA,ROU,0,6
+2021,Algeria,Spain,DZA,ESP,110,1165
+2021,Algeria,"Serbia and Kosovo: S/RES/1244 (1999)",DZA,SRB,0,10
+2021,Algeria,Slovenia,DZA,SVN,0,13
+2021,Algeria,Sweden,DZA,SWE,55,69
+2021,Algeria,Switzerland,DZA,CHE,173,211
+2021,Algeria,Ukraine,DZA,UKR,0,12
+2021,Egypt,Armenia,EGY,ARM,5,0
+2021,Egypt,Austria,EGY,AUT,217,387
+2021,Egypt,Belgium,EGY,BEL,98,105
+2021,Egypt,Bulgaria,EGY,BGR,17,6
+2021,Egypt,Cyprus,EGY,CYP,120,477
+2021,Egypt,Czechia,EGY,CZE,7,10
+2021,Egypt,Denmark,EGY,DNK,17,6
+2021,Egypt,Estonia,EGY,EST,5,0
+2021,Egypt,Finland,EGY,FIN,40,5
+2021,Egypt,France,EGY,FRA,1586,395
+2021,Egypt,"United Kingdom of Great Britain and Northern Ireland",EGY,GBR,978,1039
+2021,Egypt,Georgia,EGY,GEO,65,61
+2021,Egypt,Germany,EGY,DEU,2259,1179
+2021,Egypt,Greece,EGY,GRC,418,1561
+2021,Egypt,Croatia,EGY,HRV,8,0
+2021,Egypt,Hungary,EGY,HUN,11,0
+2021,Egypt,Iceland,EGY,ISL,10,0
+2021,Egypt,Ireland,EGY,IRL,51,64
+2021,Egypt,Italy,EGY,ITA,868,2332
+2021,Egypt,Luxembourg,EGY,LUX,0,5
+2021,Egypt,Latvia,EGY,LVA,5,5
+2021,Egypt,Malta,EGY,MLT,73,97
+2021,Egypt,"Netherlands (Kingdom of the)",EGY,NLD,342,141
+2021,Egypt,Norway,EGY,NOR,44,0
+2021,Egypt,Poland,EGY,POL,40,16
+2021,Egypt,Portugal,EGY,PRT,5,18
+2021,Egypt,Romania,EGY,ROU,16,7
+2021,Egypt,"Russian Federation",EGY,RUS,6,0
+2021,Egypt,Spain,EGY,ESP,94,175
+2021,Egypt,Slovakia,EGY,SVK,5,0
+2021,Egypt,Sweden,EGY,SWE,422,154
+2021,Egypt,Switzerland,EGY,CHE,140,11
+2021,Egypt,Ukraine,EGY,UKR,5,15
+2021,Bahrain,Denmark,BHR,DNK,0,5
+2021,Bahrain,France,BHR,FRA,21,0
+2021,Bahrain,"United Kingdom of Great Britain and Northern Ireland",BHR,GBR,116,6
+2021,Bahrain,Germany,BHR,DEU,74,5
+2021,Bahrain,Ireland,BHR,IRL,5,6
+2021,Bahrain,"Netherlands (Kingdom of the)",BHR,NLD,12,0
+2021,Bahrain,Sweden,BHR,SWE,16,0
+2021,Palestinian,Albania,PSE,ALB,8,0
+2021,Palestinian,Armenia,PSE,ARM,7,0
+2021,Palestinian,Azerbaijan,PSE,AZE,5,0
+2021,Palestinian,Belgium,PSE,BEL,3109,2030
+2021,Palestinian,Belarus,PSE,BLR,0,6
+2021,Palestinian,"Bosnia and Herzegovina",PSE,BIH,5,0
+2021,Palestinian,Cyprus,PSE,CYP,2208,125
+2021,Palestinian,Denmark,PSE,DNK,5,0
+2021,Palestinian,France,PSE,FRA,1954,38
+2021,Palestinian,"United Kingdom of Great Britain and Northern Ireland",PSE,GBR,599,548
+2021,Palestinian,Georgia,PSE,GEO,0,15
+2021,Palestinian,Germany,PSE,DEU,2025,905
+2021,Palestinian,Greece,PSE,GRC,5508,385
+2021,Palestinian,Hungary,PSE,HUN,87,0
+2021,Palestinian,Iceland,PSE,ISL,133,14
+2021,Palestinian,Ireland,PSE,IRL,130,24
+2021,Palestinian,Italy,PSE,ITA,716,138
+2021,Palestinian,Latvia,PSE,LVA,7,0
+2021,Palestinian,"Rep. of Moldova",PSE,MDA,5,0
+2021,Palestinian,Malta,PSE,MLT,74,29
+2021,Palestinian,"Netherlands (Kingdom of the)",PSE,NLD,148,21
+2021,Palestinian,Poland,PSE,POL,5,16
+2021,Palestinian,Portugal,PSE,PRT,5,5
+2021,Palestinian,Romania,PSE,ROU,58,12
+2021,Palestinian,"Russian Federation",PSE,RUS,5,0
+2021,Palestinian,Spain,PSE,ESP,1351,410
+2021,Palestinian,"Serbia and Kosovo: S/RES/1244 (1999)",PSE,SRB,6,0
+2021,Palestinian,Slovakia,PSE,SVK,7,0
+2021,Palestinian,Slovenia,PSE,SVN,26,5
+2021,Palestinian,Sweden,PSE,SWE,1322,488
+2021,Palestinian,Ukraine,PSE,UKR,10,41
+2021,Iraq,Armenia,IRQ,ARM,1095,39
+2021,Iraq,Austria,IRQ,AUT,9959,1637
+2021,Iraq,Azerbaijan,IRQ,AZE,10,0
+2021,Iraq,Belgium,IRQ,BEL,5655,995
+2021,Iraq,Belarus,IRQ,BLR,11,5
+2021,Iraq,"Bosnia and Herzegovina",IRQ,BIH,0,6
+2021,Iraq,Bulgaria,IRQ,BGR,1127,200
+2021,Iraq,Cyprus,IRQ,CYP,988,113
+2021,Iraq,Czechia,IRQ,CZE,89,8
+2021,Iraq,Denmark,IRQ,DNK,274,54
+2021,Iraq,Estonia,IRQ,EST,23,0
+2021,Iraq,Finland,IRQ,FIN,9166,590
+2021,Iraq,France,IRQ,FRA,13830,751
+2021,Iraq,"United Kingdom of Great Britain and Northern Ireland",IRQ,GBR,7263,12068
+2021,Iraq,Georgia,IRQ,GEO,401,45
+2021,Iraq,Germany,IRQ,DEU,147869,29206
+2021,Iraq,Greece,IRQ,GRC,13634,1646
+2021,Iraq,Croatia,IRQ,HRV,119,18
+2021,Iraq,Hungary,IRQ,HUN,608,0
+2021,Iraq,Iceland,IRQ,ISL,314,26
+2021,Iraq,Ireland,IRQ,IRL,398,59
+2021,Iraq,Italy,IRQ,ITA,5311,1029
+2021,Iraq,Liechtenstein,IRQ,LIE,7,5
+2021,Iraq,Lithuania,IRQ,LTU,65,15
+2021,Iraq,Luxembourg,IRQ,LUX,788,105
+2021,Iraq,Latvia,IRQ,LVA,40,95
+2021,Iraq,"North Macedonia",IRQ,MKD,5,0
+2021,Iraq,Monaco,IRQ,MCO,5,0
+2021,Iraq,"Rep. of Moldova",IRQ,MDA,17,0
+2021,Iraq,Malta,IRQ,MLT,81,0
+2021,Iraq,"Netherlands (Kingdom of the)",IRQ,NLD,5998,799
+2021,Iraq,Norway,IRQ,NOR,1021,84
+2021,Iraq,Poland,IRQ,POL,113,1116
+2021,Iraq,Portugal,IRQ,PRT,202,0
+2021,Iraq,Romania,IRQ,ROU,529,71
+2021,Iraq,"Russian Federation",IRQ,RUS,16,0
+2021,Iraq,Spain,IRQ,ESP,296,145
+2021,Iraq,"Serbia and Kosovo: S/RES/1244 (1999)",IRQ,SRB,16,7
+2021,Iraq,Slovakia,IRQ,SVK,214,0
+2021,Iraq,Slovenia,IRQ,SVN,53,24
+2021,Iraq,Sweden,IRQ,SWE,10643,1242
+2021,Iraq,Switzerland,IRQ,CHE,4488,445
+2021,Iraq,Türkiye,IRQ,TUR,9258,144376
+2021,Iraq,Ukraine,IRQ,UKR,74,68
+2021,Israel,Austria,ISR,AUT,10,0
+2021,Israel,France,ISR,FRA,9,0
+2021,Israel,"United Kingdom of Great Britain and Northern Ireland",ISR,GBR,120,15
+2021,Israel,Germany,ISR,DEU,31,19
+2021,Israel,Ireland,ISR,IRL,12,9
+2021,Israel,Italy,ISR,ITA,0,5
+2021,Israel,Norway,ISR,NOR,8,0
+2021,Israel,"Russian Federation",ISR,RUS,5,0
+2021,Israel,Spain,ISR,ESP,0,15
+2021,Israel,Sweden,ISR,SWE,22,5
+2021,Israel,Switzerland,ISR,CHE,5,0
+2021,Jordan,Austria,JOR,AUT,78,38
+2021,Jordan,Belgium,JOR,BEL,23,65
+2021,Jordan,Bulgaria,JOR,BGR,6,0
+2021,Jordan,Cyprus,JOR,CYP,50,83
+2021,Jordan,Denmark,JOR,DNK,0,10
+2021,Jordan,Finland,JOR,FIN,6,5
+2021,Jordan,France,JOR,FRA,61,5
+2021,Jordan,"United Kingdom of Great Britain and Northern Ireland",JOR,GBR,110,132
+2021,Jordan,Georgia,JOR,GEO,0,77
+2021,Jordan,Germany,JOR,DEU,496,405
+2021,Jordan,Greece,JOR,GRC,44,0
+2021,Jordan,Ireland,JOR,IRL,7,16
+2021,Jordan,Italy,JOR,ITA,5,8
+2021,Jordan,Malta,JOR,MLT,5,0
+2021,Jordan,"Netherlands (Kingdom of the)",JOR,NLD,72,41
+2021,Jordan,Norway,JOR,NOR,5,0
+2021,Jordan,Portugal,JOR,PRT,0,14
+2021,Jordan,Romania,JOR,ROU,6,0
+2021,Jordan,Spain,JOR,ESP,27,35
+2021,Jordan,"Serbia and Kosovo: S/RES/1244 (1999)",JOR,SRB,0,7
+2021,Jordan,Sweden,JOR,SWE,279,137
+2021,Jordan,Switzerland,JOR,CHE,57,7
+2021,Jordan,Ukraine,JOR,UKR,5,5
+2021,Kuwait,Austria,KWT,AUT,10,9
+2021,Kuwait,Belgium,KWT,BEL,6,5
+2021,Kuwait,France,KWT,FRA,435,64
+2021,Kuwait,"United Kingdom of Great Britain and Northern Ireland",KWT,GBR,692,1062
+2021,Kuwait,Germany,KWT,DEU,48,58
+2021,Kuwait,Greece,KWT,GRC,153,21
+2021,Kuwait,Ireland,KWT,IRL,51,11
+2021,Kuwait,Luxembourg,KWT,LUX,5,0
+2021,Kuwait,"Netherlands (Kingdom of the)",KWT,NLD,5,0
+2021,Kuwait,Romania,KWT,ROU,5,0
+2021,Kuwait,Spain,KWT,ESP,0,5
+2021,Kuwait,Sweden,KWT,SWE,32,0
+2021,Libya,Austria,LBY,AUT,144,68
+2021,Libya,Azerbaijan,LBY,AZE,5,0
+2021,Libya,Belgium,LBY,BEL,145,160
+2021,Libya,Belarus,LBY,BLR,7,0
+2021,Libya,Cyprus,LBY,CYP,12,5
+2021,Libya,Czechia,LBY,CZE,22,5
+2021,Libya,Denmark,LBY,DNK,5,5
+2021,Libya,Finland,LBY,FIN,34,6
+2021,Libya,France,LBY,FRA,2259,269
+2021,Libya,"United Kingdom of Great Britain and Northern Ireland",LBY,GBR,4468,856
+2021,Libya,Germany,LBY,DEU,2687,983
+2021,Libya,Greece,LBY,GRC,65,19
+2021,Libya,Croatia,LBY,HRV,5,0
+2021,Libya,Hungary,LBY,HUN,7,0
+2021,Libya,Iceland,LBY,ISL,13,0
+2021,Libya,Ireland,LBY,IRL,236,8
+2021,Libya,Italy,LBY,ITA,1141,241
+2021,Libya,Luxembourg,LBY,LUX,5,25
+2021,Libya,"Rep. of Moldova",LBY,MDA,5,0
+2021,Libya,Malta,LBY,MLT,2851,228
+2021,Libya,"Netherlands (Kingdom of the)",LBY,NLD,268,76
+2021,Libya,Norway,LBY,NOR,56,5
+2021,Libya,Poland,LBY,POL,21,16
+2021,Libya,Portugal,LBY,PRT,15,0
+2021,Libya,Romania,LBY,ROU,5,0
+2021,Libya,"Russian Federation",LBY,RUS,7,0
+2021,Libya,Spain,LBY,ESP,167,30
+2021,Libya,"Serbia and Kosovo: S/RES/1244 (1999)",LBY,SRB,46,0
+2021,Libya,Slovakia,LBY,SVK,7,0
+2021,Libya,Sweden,LBY,SWE,263,53
+2021,Libya,Switzerland,LBY,CHE,304,33
+2021,Libya,Ukraine,LBY,UKR,5,14
+2021,Lebanon,Armenia,LBN,ARM,26,5
+2021,Lebanon,Austria,LBN,AUT,122,117
+2021,Lebanon,Belgium,LBN,BEL,115,155
+2021,Lebanon,Belarus,LBN,BLR,5,0
+2021,Lebanon,Bulgaria,LBN,BGR,22,6
+2021,Lebanon,Cyprus,LBN,CYP,53,112
+2021,Lebanon,Czechia,LBN,CZE,5,0
+2021,Lebanon,Denmark,LBN,DNK,30,5
+2021,Lebanon,Finland,LBN,FIN,13,6
+2021,Lebanon,France,LBN,FRA,301,160
+2021,Lebanon,"United Kingdom of Great Britain and Northern Ireland",LBN,GBR,205,176
+2021,Lebanon,Georgia,LBN,GEO,10,37
+2021,Lebanon,Germany,LBN,DEU,1872,1836
+2021,Lebanon,Greece,LBN,GRC,84,26
+2021,Lebanon,Hungary,LBN,HUN,5,0
+2021,Lebanon,Ireland,LBN,IRL,9,13
+2021,Lebanon,Italy,LBN,ITA,14,59
+2021,Lebanon,Luxembourg,LBN,LUX,5,15
+2021,Lebanon,Latvia,LBN,LVA,5,0
+2021,Lebanon,Malta,LBN,MLT,0,5
+2021,Lebanon,"Netherlands (Kingdom of the)",LBN,NLD,118,73
+2021,Lebanon,Norway,LBN,NOR,24,5
+2021,Lebanon,Poland,LBN,POL,5,0
+2021,Lebanon,Romania,LBN,ROU,10,0
+2021,Lebanon,"Russian Federation",LBN,RUS,5,0
+2021,Lebanon,Spain,LBN,ESP,30,80
+2021,Lebanon,Sweden,LBN,SWE,509,227
+2021,Lebanon,Switzerland,LBN,CHE,47,23
+2021,Lebanon,Ukraine,LBN,UKR,9,13
+2021,Mauritania,Austria,MRT,AUT,5,0
+2021,Mauritania,Belgium,MRT,BEL,274,200
+2021,Mauritania,Bulgaria,MRT,BGR,0,5
+2021,Mauritania,France,MRT,FRA,7860,1123
+2021,Mauritania,"United Kingdom of Great Britain and Northern Ireland",MRT,GBR,7,7
+2021,Mauritania,Germany,MRT,DEU,65,74
+2021,Mauritania,Greece,MRT,GRC,68,0
+2021,Mauritania,Croatia,MRT,HRV,5,0
+2021,Mauritania,Italy,MRT,ITA,273,5
+2021,Mauritania,"Netherlands (Kingdom of the)",MRT,NLD,6,5
+2021,Mauritania,Norway,MRT,NOR,5,0
+2021,Mauritania,Portugal,MRT,PRT,0,5
+2021,Mauritania,Spain,MRT,ESP,18,195
+2021,Mauritania,Sweden,MRT,SWE,13,0
+2021,Mauritania,Switzerland,MRT,CHE,9,0
+2021,Morocco,Austria,MAR,AUT,42,523
+2021,Morocco,Belgium,MAR,BEL,167,340
+2021,Morocco,"Bosnia and Herzegovina",MAR,BIH,0,7
+2021,Morocco,Bulgaria,MAR,BGR,5,129
+2021,Morocco,Cyprus,MAR,CYP,0,11
+2021,Morocco,Denmark,MAR,DNK,10,34
+2021,Morocco,Finland,MAR,FIN,39,16
+2021,Morocco,France,MAR,FRA,1296,207
+2021,Morocco,"United Kingdom of Great Britain and Northern Ireland",MAR,GBR,221,368
+2021,Morocco,Georgia,MAR,GEO,0,5
+2021,Morocco,Germany,MAR,DEU,866,1156
+2021,Morocco,Greece,MAR,GRC,230,117
+2021,Morocco,Iceland,MAR,ISL,8,0
+2021,Morocco,Ireland,MAR,IRL,14,70
+2021,Morocco,Italy,MAR,ITA,920,887
+2021,Morocco,Luxembourg,MAR,LUX,0,15
+2021,Morocco,"North Macedonia",MAR,MKD,0,5
+2021,Morocco,Montenegro,MAR,MNE,0,12
+2021,Morocco,Malta,MAR,MLT,30,97
+2021,Morocco,"Netherlands (Kingdom of the)",MAR,NLD,75,341
+2021,Morocco,Norway,MAR,NOR,14,5
+2021,Morocco,Portugal,MAR,PRT,9,126
+2021,Morocco,Romania,MAR,ROU,5,9
+2021,Morocco,Spain,MAR,ESP,722,6355
+2021,Morocco,"Serbia and Kosovo: S/RES/1244 (1999)",MAR,SRB,0,26
+2021,Morocco,Slovakia,MAR,SVK,0,11
+2021,Morocco,Slovenia,MAR,SVN,0,12
+2021,Morocco,Sweden,MAR,SWE,256,148
+2021,Morocco,Switzerland,MAR,CHE,85,96
+2021,Morocco,Ukraine,MAR,UKR,0,10
+2021,Oman,"United Kingdom of Great Britain and Northern Ireland",OMN,GBR,22,24
+2021,Oman,Germany,OMN,DEU,8,10
+2021,Oman,Spain,OMN,ESP,0,5
+2021,Qatar,"United Kingdom of Great Britain and Northern Ireland",QAT,GBR,17,11
+2021,Qatar,Germany,QAT,DEU,5,0
+2021,"Saudi Arabia",Austria,SAU,AUT,7,0
+2021,"Saudi Arabia",Belgium,SAU,BEL,8,5
+2021,"Saudi Arabia",Czechia,SAU,CZE,5,0
+2021,"Saudi Arabia",France,SAU,FRA,42,0
+2021,"Saudi Arabia","United Kingdom of Great Britain and Northern Ireland",SAU,GBR,288,195
+2021,"Saudi Arabia",Georgia,SAU,GEO,0,6
+2021,"Saudi Arabia",Germany,SAU,DEU,175,23
+2021,"Saudi Arabia",Greece,SAU,GRC,8,0
+2021,"Saudi Arabia",Ireland,SAU,IRL,20,0
+2021,"Saudi Arabia",Malta,SAU,MLT,5,0
+2021,"Saudi Arabia","Netherlands (Kingdom of the)",SAU,NLD,35,20
+2021,"Saudi Arabia",Norway,SAU,NOR,8,0
+2021,"Saudi Arabia",Spain,SAU,ESP,5,5
+2021,"Saudi Arabia",Sweden,SAU,SWE,60,0
+2021,"Saudi Arabia",Switzerland,SAU,CHE,18,5
+2021,"Syrian Arab Rep.",Albania,SYR,ALB,15,6
+2021,"Syrian Arab Rep.",Armenia,SYR,ARM,5335,8
+2021,"Syrian Arab Rep.",Austria,SYR,AUT,62408,10558
+2021,"Syrian Arab Rep.",Azerbaijan,SYR,AZE,33,0
+2021,"Syrian Arab Rep.",Belgium,SYR,BEL,19188,1980
+2021,"Syrian Arab Rep.",Belarus,SYR,BLR,68,8
+2021,"Syrian Arab Rep.","Bosnia and Herzegovina",SYR,BIH,28,5
+2021,"Syrian Arab Rep.",Bulgaria,SYR,BGR,20067,2368
+2021,"Syrian Arab Rep.",Cyprus,SYR,CYP,10735,5545
+2021,"Syrian Arab Rep.",Czechia,SYR,CZE,358,0
+2021,"Syrian Arab Rep.",Denmark,SYR,DNK,19706,222
+2021,"Syrian Arab Rep.",Estonia,SYR,EST,105,0
+2021,"Syrian Arab Rep.",Finland,SYR,FIN,2660,66
+2021,"Syrian Arab Rep.",France,SYR,FRA,37375,1369
+2021,"Syrian Arab Rep.","United Kingdom of Great Britain and Northern Ireland",SYR,GBR,11980,4795
+2021,"Syrian Arab Rep.",Georgia,SYR,GEO,444,18
+2021,"Syrian Arab Rep.",Germany,SYR,DEU,621740,53750
+2021,"Syrian Arab Rep.",Greece,SYR,GRC,39372,3933
+2021,"Syrian Arab Rep.",Croatia,SYR,HRV,548,12
+2021,"Syrian Arab Rep.",Hungary,SYR,HUN,869,0
+2021,"Syrian Arab Rep.",Iceland,SYR,ISL,195,16
+2021,"Syrian Arab Rep.",Ireland,SYR,IRL,2832,53
+2021,"Syrian Arab Rep.",Italy,SYR,ITA,3527,903
+2021,"Syrian Arab Rep.",Liechtenstein,SYR,LIE,32,0
+2021,"Syrian Arab Rep.",Lithuania,SYR,LTU,463,5
+2021,"Syrian Arab Rep.",Luxembourg,SYR,LUX,2409,415
+2021,"Syrian Arab Rep.",Latvia,SYR,LVA,312,5
+2021,"Syrian Arab Rep.","North Macedonia",SYR,MKD,17,0
+2021,"Syrian Arab Rep.",Monaco,SYR,MCO,5,0
+2021,"Syrian Arab Rep.","Rep. of Moldova",SYR,MDA,166,7
+2021,"Syrian Arab Rep.",Malta,SYR,MLT,1918,412
+2021,"Syrian Arab Rep.","Netherlands (Kingdom of the)",SYR,NLD,39388,6362
+2021,"Syrian Arab Rep.",Norway,SYR,NOR,15865,315
+2021,"Syrian Arab Rep.",Poland,SYR,POL,254,62
+2021,"Syrian Arab Rep.",Portugal,SYR,PRT,861,0
+2021,"Syrian Arab Rep.",Romania,SYR,ROU,2258,179
+2021,"Syrian Arab Rep.","Russian Federation",SYR,RUS,297,62
+2021,"Syrian Arab Rep.",Spain,SYR,ESP,14987,1605
+2021,"Syrian Arab Rep.","Serbia and Kosovo: S/RES/1244 (1999)",SYR,SRB,45,9
+2021,"Syrian Arab Rep.",Slovakia,SYR,SVK,25,0
+2021,"Syrian Arab Rep.",Slovenia,SYR,SVN,326,13
+2021,"Syrian Arab Rep.",Sweden,SYR,SWE,115233,1510
+2021,"Syrian Arab Rep.",Switzerland,SYR,CHE,20146,255
+2021,"Syrian Arab Rep.",Türkiye,SYR,TUR,3737369,0
+2021,"Syrian Arab Rep.",Ukraine,SYR,UKR,512,147
+2021,Tunisia,Austria,TUN,AUT,13,243
+2021,Tunisia,Belgium,TUN,BEL,68,120
+2021,Tunisia,"Bosnia and Herzegovina",TUN,BIH,0,5
+2021,Tunisia,Bulgaria,TUN,BGR,0,19
+2021,Tunisia,Czechia,TUN,CZE,0,6
+2021,Tunisia,Denmark,TUN,DNK,5,10
+2021,Tunisia,Finland,TUN,FIN,5,0
+2021,Tunisia,France,TUN,FRA,563,91
+2021,Tunisia,"United Kingdom of Great Britain and Northern Ireland",TUN,GBR,66,106
+2021,Tunisia,Germany,TUN,DEU,251,784
+2021,Tunisia,Greece,TUN,GRC,28,19
+2021,Tunisia,Hungary,TUN,HUN,7,0
+2021,Tunisia,Iceland,TUN,ISL,5,0
+2021,Tunisia,Ireland,TUN,IRL,6,5
+2021,Tunisia,Italy,TUN,ITA,537,1103
+2021,Tunisia,Luxembourg,TUN,LUX,0,10
+2021,Tunisia,Malta,TUN,MLT,13,10
+2021,Tunisia,"Netherlands (Kingdom of the)",TUN,NLD,23,148
+2021,Tunisia,Norway,TUN,NOR,5,5
+2021,Tunisia,Romania,TUN,ROU,5,20
+2021,Tunisia,Spain,TUN,ESP,65,440
+2021,Tunisia,Slovenia,TUN,SVN,0,5
+2021,Tunisia,Sweden,TUN,SWE,44,45
+2021,Tunisia,Switzerland,TUN,CHE,177,38
+2021,Tunisia,Ukraine,TUN,UKR,0,5
+2021,"United Arab Emirates","United Kingdom of Great Britain and Northern Ireland",ARE,GBR,22,14
+2021,"United Arab Emirates",Germany,ARE,DEU,33,0
+2021,"United Arab Emirates",Spain,ARE,ESP,0,5
+2021,"United Arab Emirates",Sweden,ARE,SWE,5,0
+2021,"Western Sahara","Bosnia and Herzegovina",ESH,BIH,0,5
+2021,"Western Sahara",France,ESH,FRA,855,83
+2021,"Western Sahara","United Kingdom of Great Britain and Northern Ireland",ESH,GBR,12,5
+2021,"Western Sahara",Greece,ESH,GRC,10,0
+2021,"Western Sahara",Italy,ESH,ITA,5,0
+2021,"Western Sahara",Spain,ESH,ESP,20,0
+2021,"Western Sahara",Switzerland,ESH,CHE,8,0
+2021,Yemen,Armenia,YEM,ARM,21,0
+2021,Yemen,Austria,YEM,AUT,426,177
+2021,Yemen,Azerbaijan,YEM,AZE,10,0
+2021,Yemen,Belgium,YEM,BEL,257,160
+2021,Yemen,Belarus,YEM,BLR,32,5
+2021,Yemen,Bulgaria,YEM,BGR,23,9
+2021,Yemen,Cyprus,YEM,CYP,41,28
+2021,Yemen,Czechia,YEM,CZE,24,5
+2021,Yemen,Denmark,YEM,DNK,7,0
+2021,Yemen,Estonia,YEM,EST,5,0
+2021,Yemen,Finland,YEM,FIN,311,12
+2021,Yemen,France,YEM,FRA,921,95
+2021,Yemen,"United Kingdom of Great Britain and Northern Ireland",YEM,GBR,1251,769
+2021,Yemen,Georgia,YEM,GEO,55,20
+2021,Yemen,Germany,YEM,DEU,3082,1173
+2021,Yemen,Greece,YEM,GRC,933,26
+2021,Yemen,Croatia,YEM,HRV,7,0
+2021,Yemen,Hungary,YEM,HUN,16,0
+2021,Yemen,Iceland,YEM,ISL,12,0
+2021,Yemen,Ireland,YEM,IRL,27,8
+2021,Yemen,Italy,YEM,ITA,0,42
+2021,Yemen,Luxembourg,YEM,LUX,30,5
+2021,Yemen,"Rep. of Moldova",YEM,MDA,6,0
+2021,Yemen,Montenegro,YEM,MNE,7,0
+2021,Yemen,Malta,YEM,MLT,5,5
+2021,Yemen,"Netherlands (Kingdom of the)",YEM,NLD,1789,973
+2021,Yemen,Norway,YEM,NOR,201,5
+2021,Yemen,Poland,YEM,POL,22,31
+2021,Yemen,Portugal,YEM,PRT,9,0
+2021,Yemen,Romania,YEM,ROU,65,5
+2021,Yemen,"Russian Federation",YEM,RUS,84,13
+2021,Yemen,Spain,YEM,ESP,392,325
+2021,Yemen,Slovakia,YEM,SVK,24,0
+2021,Yemen,Slovenia,YEM,SVN,6,0
+2021,Yemen,Sweden,YEM,SWE,1727,62
+2021,Yemen,Switzerland,YEM,CHE,345,13
+2021,Yemen,Ukraine,YEM,UKR,5,47
+2022,Algeria,Austria,DZA,AUT,27,211
+2022,Algeria,Belgium,DZA,BEL,109,255
+2022,Algeria,Bulgaria,DZA,BGR,0,54
+2022,Algeria,Cyprus,DZA,CYP,8,5
+2022,Algeria,Czechia,DZA,CZE,0,19
+2022,Algeria,Denmark,DZA,DNK,0,15
+2022,Algeria,Finland,DZA,FIN,9,14
+2022,Algeria,France,DZA,FRA,3267,475
+2022,Algeria,"United Kingdom of Great Britain and Northern Ireland",DZA,GBR,305,786
+2022,Algeria,Germany,DZA,DEU,937,1125
+2022,Algeria,Greece,DZA,GRC,150,49
+2022,Algeria,Croatia,DZA,HRV,0,6
+2022,Algeria,Hungary,DZA,HUN,14,0
+2022,Algeria,Ireland,DZA,IRL,74,1925
+2022,Algeria,Italy,DZA,ITA,38,141
+2022,Algeria,Luxembourg,DZA,LUX,30,20
+2022,Algeria,"Rep. of Moldova",DZA,MDA,5,0
+2022,Algeria,Montenegro,DZA,MNE,0,8
+2022,Algeria,Malta,DZA,MLT,0,30
+2022,Algeria,"Netherlands (Kingdom of the)",DZA,NLD,461,907
+2022,Algeria,Norway,DZA,NOR,9,5
+2022,Algeria,Poland,DZA,POL,30,5
+2022,Algeria,Portugal,DZA,PRT,779,18
+2022,Algeria,Romania,DZA,ROU,5,5
+2022,Algeria,Spain,DZA,ESP,180,1015
+2022,Algeria,Slovenia,DZA,SVN,0,14
+2022,Algeria,Sweden,DZA,SWE,61,56
+2022,Algeria,Switzerland,DZA,CHE,205,292
+2022,Algeria,Ukraine,DZA,UKR,0,5
+2022,Egypt,Albania,EGY,ALB,8,0
+2022,Egypt,Armenia,EGY,ARM,5,24
+2022,Egypt,Austria,EGY,AUT,221,379
+2022,Egypt,Belgium,EGY,BEL,95,150
+2022,Egypt,Bulgaria,EGY,BGR,17,27
+2022,Egypt,Cyprus,EGY,CYP,125,321
+2022,Egypt,Czechia,EGY,CZE,7,10
+2022,Egypt,Denmark,EGY,DNK,24,7
+2022,Egypt,Estonia,EGY,EST,5,0
+2022,Egypt,Finland,EGY,FIN,45,22
+2022,Egypt,France,EGY,FRA,1769,568
+2022,Egypt,"United Kingdom of Great Britain and Northern Ireland",EGY,GBR,1062,2054
+2022,Egypt,Georgia,EGY,GEO,68,39
+2022,Egypt,Germany,EGY,DEU,1840,1167
+2022,Egypt,Greece,EGY,GRC,459,1649
+2022,Egypt,Croatia,EGY,HRV,8,0
+2022,Egypt,Hungary,EGY,HUN,12,5
+2022,Egypt,Iceland,EGY,ISL,11,5
+2022,Egypt,Ireland,EGY,IRL,54,359
+2022,Egypt,Italy,EGY,ITA,776,7425
+2022,Egypt,Lithuania,EGY,LTU,7,5
+2022,Egypt,Luxembourg,EGY,LUX,8,5
+2022,Egypt,Latvia,EGY,LVA,9,0
+2022,Egypt,"Rep. of Moldova",EGY,MDA,8,5
+2022,Egypt,Malta,EGY,MLT,74,84
+2022,Egypt,"Netherlands (Kingdom of the)",EGY,NLD,650,278
+2022,Egypt,Norway,EGY,NOR,47,0
+2022,Egypt,Poland,EGY,POL,101,138
+2022,Egypt,Portugal,EGY,PRT,125,5
+2022,Egypt,Romania,EGY,ROU,24,11
+2022,Egypt,"Russian Federation",EGY,RUS,5,5
+2022,Egypt,Spain,EGY,ESP,115,200
+2022,Egypt,"Serbia and Kosovo: S/RES/1244 (1999)",EGY,SRB,0,5
+2022,Egypt,Slovakia,EGY,SVK,17,0
+2022,Egypt,Sweden,EGY,SWE,408,128
+2022,Egypt,Switzerland,EGY,CHE,155,19
+2022,Egypt,Ukraine,EGY,UKR,0,7
+2022,Bahrain,Denmark,BHR,DNK,5,0
+2022,Bahrain,France,BHR,FRA,22,0
+2022,Bahrain,"United Kingdom of Great Britain and Northern Ireland",BHR,GBR,87,34
+2022,Bahrain,Germany,BHR,DEU,45,0
+2022,Bahrain,Ireland,BHR,IRL,12,0
+2022,Bahrain,"Netherlands (Kingdom of the)",BHR,NLD,24,0
+2022,Bahrain,Sweden,BHR,SWE,16,5
+2022,Palestinian,Albania,PSE,ALB,8,0
+2022,Palestinian,Armenia,PSE,ARM,7,0
+2022,Palestinian,Azerbaijan,PSE,AZE,5,0
+2022,Palestinian,Belgium,PSE,BEL,4607,3270
+2022,Palestinian,Belarus,PSE,BLR,8,0
+2022,Palestinian,Cyprus,PSE,CYP,2237,276
+2022,Palestinian,France,PSE,FRA,2099,97
+2022,Palestinian,"United Kingdom of Great Britain and Northern Ireland",PSE,GBR,691,581
+2022,Palestinian,Georgia,PSE,GEO,5,10
+2022,Palestinian,Germany,PSE,DEU,1586,1410
+2022,Palestinian,Greece,PSE,GRC,7514,1114
+2022,Palestinian,Croatia,PSE,HRV,0,25
+2022,Palestinian,Hungary,PSE,HUN,86,0
+2022,Palestinian,Iceland,PSE,ISL,273,51
+2022,Palestinian,Ireland,PSE,IRL,130,38
+2022,Palestinian,Italy,PSE,ITA,742,126
+2022,Palestinian,Latvia,PSE,LVA,7,0
+2022,Palestinian,Malta,PSE,MLT,72,16
+2022,Palestinian,"Netherlands (Kingdom of the)",PSE,NLD,0,27
+2022,Palestinian,Poland,PSE,POL,12,7
+2022,Palestinian,Portugal,PSE,PRT,9,6
+2022,Palestinian,Romania,PSE,ROU,68,8
+2022,Palestinian,"Russian Federation",PSE,RUS,5,0
+2022,Palestinian,Spain,PSE,ESP,1092,370
+2022,Palestinian,"Serbia and Kosovo: S/RES/1244 (1999)",PSE,SRB,5,0
+2022,Palestinian,Slovakia,PSE,SVK,7,0
+2022,Palestinian,Slovenia,PSE,SVN,27,5
+2022,Palestinian,Sweden,PSE,SWE,1352,255
+2022,Palestinian,Ukraine,PSE,UKR,18,17
+2022,Iraq,Armenia,IRQ,ARM,1123,184
+2022,Iraq,Austria,IRQ,AUT,10340,1095
+2022,Iraq,Azerbaijan,IRQ,AZE,10,0
+2022,Iraq,Belgium,IRQ,BEL,3789,1035
+2022,Iraq,Belarus,IRQ,BLR,11,14
+2022,Iraq,"Bosnia and Herzegovina",IRQ,BIH,0,5
+2022,Iraq,Bulgaria,IRQ,BGR,1087,570
+2022,Iraq,Cyprus,IRQ,CYP,1013,347
+2022,Iraq,Czechia,IRQ,CZE,76,6
+2022,Iraq,Denmark,IRQ,DNK,275,52
+2022,Iraq,Estonia,IRQ,EST,17,0
+2022,Iraq,Finland,IRQ,FIN,9137,1302
+2022,Iraq,France,IRQ,FRA,14074,221
+2022,Iraq,"United Kingdom of Great Britain and Northern Ireland",IRQ,GBR,8272,15887
+2022,Iraq,Georgia,IRQ,GEO,367,23
+2022,Iraq,Germany,IRQ,DEU,103374,29893
+2022,Iraq,Greece,IRQ,GRC,15704,905
+2022,Iraq,Croatia,IRQ,HRV,119,75
+2022,Iraq,Hungary,IRQ,HUN,592,0
+2022,Iraq,Iceland,IRQ,ISL,328,43
+2022,Iraq,Ireland,IRQ,IRL,356,89
+2022,Iraq,Italy,IRQ,ITA,5589,1237
+2022,Iraq,Liechtenstein,IRQ,LIE,7,6
+2022,Iraq,Lithuania,IRQ,LTU,81,23
+2022,Iraq,Luxembourg,IRQ,LUX,837,80
+2022,Iraq,Latvia,IRQ,LVA,44,32
+2022,Iraq,Monaco,IRQ,MCO,5,0
+2022,Iraq,"Rep. of Moldova",IRQ,MDA,21,0
+2022,Iraq,Malta,IRQ,MLT,81,0
+2022,Iraq,"Netherlands (Kingdom of the)",IRQ,NLD,4251,827
+2022,Iraq,Norway,IRQ,NOR,950,69
+2022,Iraq,Poland,IRQ,POL,144,165
+2022,Iraq,Portugal,IRQ,PRT,245,0
+2022,Iraq,Romania,IRQ,ROU,491,81
+2022,Iraq,"Russian Federation",IRQ,RUS,14,0
+2022,Iraq,Spain,IRQ,ESP,567,65
+2022,Iraq,"Serbia and Kosovo: S/RES/1244 (1999)",IRQ,SRB,21,0
+2022,Iraq,Slovakia,IRQ,SVK,216,5
+2022,Iraq,Slovenia,IRQ,SVN,53,6
+2022,Iraq,Sweden,IRQ,SWE,10297,1456
+2022,Iraq,Switzerland,IRQ,CHE,4306,519
+2022,Iraq,Türkiye,IRQ,TUR,11855,122629
+2022,Iraq,Ukraine,IRQ,UKR,71,32
+2022,Israel,Austria,ISR,AUT,10,5
+2022,Israel,Belgium,ISR,BEL,6,5
+2022,Israel,Bulgaria,ISR,BGR,25,0
+2022,Israel,Denmark,ISR,DNK,0,5
+2022,Israel,France,ISR,FRA,9,0
+2022,Israel,"United Kingdom of Great Britain and Northern Ireland",ISR,GBR,121,36
+2022,Israel,Germany,ISR,DEU,117,27
+2022,Israel,Hungary,ISR,HUN,9,0
+2022,Israel,Ireland,ISR,IRL,11,7
+2022,Israel,Italy,ISR,ITA,0,5
+2022,Israel,Latvia,ISR,LVA,7,0
+2022,Israel,"Rep. of Moldova",ISR,MDA,179,7
+2022,Israel,"Netherlands (Kingdom of the)",ISR,NLD,27,0
+2022,Israel,Norway,ISR,NOR,13,5
+2022,Israel,Poland,ISR,POL,60,0
+2022,Israel,Portugal,ISR,PRT,27,0
+2022,Israel,Romania,ISR,ROU,29,0
+2022,Israel,"Russian Federation",ISR,RUS,5,0
+2022,Israel,Spain,ISR,ESP,46,5
+2022,Israel,Slovakia,ISR,SVK,8,0
+2022,Israel,Sweden,ISR,SWE,22,0
+2022,Israel,Switzerland,ISR,CHE,19,0
+2022,Jordan,Austria,JOR,AUT,85,93
+2022,Jordan,Belgium,JOR,BEL,31,125
+2022,Jordan,Bulgaria,JOR,BGR,7,0
+2022,Jordan,Cyprus,JOR,CYP,57,87
+2022,Jordan,Denmark,JOR,DNK,6,13
+2022,Jordan,Finland,JOR,FIN,9,5
+2022,Jordan,France,JOR,FRA,64,14
+2022,Jordan,"United Kingdom of Great Britain and Northern Ireland",JOR,GBR,121,117
+2022,Jordan,Georgia,JOR,GEO,0,23
+2022,Jordan,Germany,JOR,DEU,747,391
+2022,Jordan,Greece,JOR,GRC,45,5
+2022,Jordan,Hungary,JOR,HUN,5,0
+2022,Jordan,Iceland,JOR,ISL,0,17
+2022,Jordan,Ireland,JOR,IRL,18,28
+2022,Jordan,Italy,JOR,ITA,9,8
+2022,Jordan,"Rep. of Moldova",JOR,MDA,5,0
+2022,Jordan,Malta,JOR,MLT,5,0
+2022,Jordan,"Netherlands (Kingdom of the)",JOR,NLD,233,93
+2022,Jordan,Norway,JOR,NOR,6,5
+2022,Jordan,Poland,JOR,POL,12,0
+2022,Jordan,Portugal,JOR,PRT,18,0
+2022,Jordan,Romania,JOR,ROU,12,0
+2022,Jordan,Spain,JOR,ESP,62,20
+2022,Jordan,"Serbia and Kosovo: S/RES/1244 (1999)",JOR,SRB,0,8
+2022,Jordan,Sweden,JOR,SWE,291,111
+2022,Jordan,Switzerland,JOR,CHE,66,7
+2022,Kuwait,Austria,KWT,AUT,9,5
+2022,Kuwait,Belgium,KWT,BEL,6,5
+2022,Kuwait,France,KWT,FRA,660,47
+2022,Kuwait,"United Kingdom of Great Britain and Northern Ireland",KWT,GBR,750,1459
+2022,Kuwait,Germany,KWT,DEU,53,90
+2022,Kuwait,Greece,KWT,GRC,168,14
+2022,Kuwait,Ireland,KWT,IRL,44,18
+2022,Kuwait,Luxembourg,KWT,LUX,6,10
+2022,Kuwait,"Netherlands (Kingdom of the)",KWT,NLD,7,8
+2022,Kuwait,Romania,KWT,ROU,5,0
+2022,Kuwait,Spain,KWT,ESP,5,5
+2022,Kuwait,Sweden,KWT,SWE,30,5
+2022,Libya,Austria,LBY,AUT,150,71
+2022,Libya,Azerbaijan,LBY,AZE,5,0
+2022,Libya,Belgium,LBY,BEL,77,215
+2022,Libya,Belarus,LBY,BLR,7,0
+2022,Libya,Bulgaria,LBY,BGR,0,5
+2022,Libya,Cyprus,LBY,CYP,12,0
+2022,Libya,Czechia,LBY,CZE,24,0
+2022,Libya,Denmark,LBY,DNK,0,5
+2022,Libya,Finland,LBY,FIN,32,7
+2022,Libya,France,LBY,FRA,2430,148
+2022,Libya,"United Kingdom of Great Britain and Northern Ireland",LBY,GBR,4683,1134
+2022,Libya,Germany,LBY,DEU,2442,1161
+2022,Libya,Greece,LBY,GRC,71,5
+2022,Libya,Croatia,LBY,HRV,5,0
+2022,Libya,Hungary,LBY,HUN,7,0
+2022,Libya,Iceland,LBY,ISL,14,14
+2022,Libya,Ireland,LBY,IRL,202,14
+2022,Libya,Italy,LBY,ITA,1204,241
+2022,Libya,Luxembourg,LBY,LUX,9,25
+2022,Libya,"Rep. of Moldova",LBY,MDA,5,0
+2022,Libya,Malta,LBY,MLT,2859,132
+2022,Libya,"Netherlands (Kingdom of the)",LBY,NLD,304,179
+2022,Libya,Norway,LBY,NOR,54,7
+2022,Libya,Poland,LBY,POL,30,0
+2022,Libya,Portugal,LBY,PRT,33,0
+2022,Libya,Romania,LBY,ROU,5,0
+2022,Libya,"Russian Federation",LBY,RUS,5,0
+2022,Libya,Spain,LBY,ESP,158,35
+2022,Libya,"Serbia and Kosovo: S/RES/1244 (1999)",LBY,SRB,47,0
+2022,Libya,Slovakia,LBY,SVK,11,5
+2022,Libya,Slovenia,LBY,SVN,0,5
+2022,Libya,Sweden,LBY,SWE,245,40
+2022,Libya,Switzerland,LBY,CHE,307,40
+2022,Libya,Ukraine,LBY,UKR,10,0
+2022,Lebanon,Armenia,LBN,ARM,26,0
+2022,Lebanon,Austria,LBN,AUT,127,146
+2022,Lebanon,Belgium,LBN,BEL,139,195
+2022,Lebanon,Belarus,LBN,BLR,5,0
+2022,Lebanon,Bulgaria,LBN,BGR,22,8
+2022,Lebanon,Cyprus,LBN,CYP,63,85
+2022,Lebanon,Czechia,LBN,CZE,5,0
+2022,Lebanon,Denmark,LBN,DNK,29,8
+2022,Lebanon,Finland,LBN,FIN,12,5
+2022,Lebanon,France,LBN,FRA,399,128
+2022,Lebanon,"United Kingdom of Great Britain and Northern Ireland",LBN,GBR,233,208
+2022,Lebanon,Georgia,LBN,GEO,11,35
+2022,Lebanon,Germany,LBN,DEU,2401,2411
+2022,Lebanon,Greece,LBN,GRC,104,57
+2022,Lebanon,Hungary,LBN,HUN,5,0
+2022,Lebanon,Iceland,LBN,ISL,0,5
+2022,Lebanon,Ireland,LBN,IRL,10,22
+2022,Lebanon,Italy,LBN,ITA,6,130
+2022,Lebanon,Luxembourg,LBN,LUX,8,10
+2022,Lebanon,Latvia,LBN,LVA,5,0
+2022,Lebanon,"Rep. of Moldova",LBN,MDA,12,5
+2022,Lebanon,Malta,LBN,MLT,0,5
+2022,Lebanon,"Netherlands (Kingdom of the)",LBN,NLD,288,81
+2022,Lebanon,Norway,LBN,NOR,25,5
+2022,Lebanon,Poland,LBN,POL,25,11
+2022,Lebanon,Portugal,LBN,PRT,16,0
+2022,Lebanon,Romania,LBN,ROU,23,5
+2022,Lebanon,"Russian Federation",LBN,RUS,5,0
+2022,Lebanon,Spain,LBN,ESP,54,25
+2022,Lebanon,Sweden,LBN,SWE,518,233
+2022,Lebanon,Switzerland,LBN,CHE,62,53
+2022,Lebanon,Ukraine,LBN,UKR,11,0
+2022,Mauritania,Austria,MRT,AUT,5,0
+2022,Mauritania,Belgium,MRT,BEL,244,265
+2022,Mauritania,Bulgaria,MRT,BGR,0,5
+2022,Mauritania,France,MRT,FRA,8298,939
+2022,Mauritania,"United Kingdom of Great Britain and Northern Ireland",MRT,GBR,7,11
+2022,Mauritania,Germany,MRT,DEU,44,88
+2022,Mauritania,Greece,MRT,GRC,66,0
+2022,Mauritania,Croatia,MRT,HRV,5,0
+2022,Mauritania,Italy,MRT,ITA,239,9
+2022,Mauritania,Luxembourg,MRT,LUX,0,5
+2022,Mauritania,"Netherlands (Kingdom of the)",MRT,NLD,23,0
+2022,Mauritania,Spain,MRT,ESP,35,120
+2022,Mauritania,Sweden,MRT,SWE,13,0
+2022,Mauritania,Switzerland,MRT,CHE,9,5
+2022,Morocco,Austria,MAR,AUT,55,3966
+2022,Morocco,Belgium,MAR,BEL,190,415
+2022,Morocco,Bulgaria,MAR,BGR,6,1000
+2022,Morocco,Cyprus,MAR,CYP,0,6
+2022,Morocco,Czechia,MAR,CZE,0,5
+2022,Morocco,Denmark,MAR,DNK,10,35
+2022,Morocco,Finland,MAR,FIN,43,31
+2022,Morocco,France,MAR,FRA,1417,268
+2022,Morocco,"United Kingdom of Great Britain and Northern Ireland",MAR,GBR,261,459
+2022,Morocco,Georgia,MAR,GEO,0,5
+2022,Morocco,Germany,MAR,DEU,2219,1058
+2022,Morocco,Greece,MAR,GRC,241,118
+2022,Morocco,Croatia,MAR,HRV,33,15
+2022,Morocco,Hungary,MAR,HUN,5,0
+2022,Morocco,Iceland,MAR,ISL,9,0
+2022,Morocco,Ireland,MAR,IRL,31,201
+2022,Morocco,Italy,MAR,ITA,1009,1779
+2022,Morocco,Luxembourg,MAR,LUX,8,25
+2022,Morocco,"North Macedonia",MAR,MKD,0,8
+2022,Morocco,"Rep. of Moldova",MAR,MDA,5,14
+2022,Morocco,Montenegro,MAR,MNE,0,6
+2022,Morocco,Malta,MAR,MLT,30,80
+2022,Morocco,"Netherlands (Kingdom of the)",MAR,NLD,1037,400
+2022,Morocco,Norway,MAR,NOR,16,15
+2022,Morocco,Poland,MAR,POL,21,23
+2022,Morocco,Portugal,MAR,PRT,2075,21
+2022,Morocco,Romania,MAR,ROU,9,18
+2022,Morocco,Spain,MAR,ESP,996,5925
+2022,Morocco,"Serbia and Kosovo: S/RES/1244 (1999)",MAR,SRB,0,16
+2022,Morocco,Slovakia,MAR,SVK,0,5
+2022,Morocco,Slovenia,MAR,SVN,5,74
+2022,Morocco,Sweden,MAR,SWE,261,137
+2022,Morocco,Switzerland,MAR,CHE,114,172
+2022,Morocco,Ukraine,MAR,UKR,0,8
+2022,Oman,"United Kingdom of Great Britain and Northern Ireland",OMN,GBR,22,42
+2022,Oman,Germany,OMN,DEU,7,10
+2022,Oman,"Netherlands (Kingdom of the)",OMN,NLD,5,0
+2022,Qatar,"United Kingdom of Great Britain and Northern Ireland",QAT,GBR,17,18
+2022,"Saudi Arabia",Austria,SAU,AUT,8,0
+2022,"Saudi Arabia",Belgium,SAU,BEL,5,5
+2022,"Saudi Arabia",Czechia,SAU,CZE,5,0
+2022,"Saudi Arabia",France,SAU,FRA,51,0
+2022,"Saudi Arabia","United Kingdom of Great Britain and Northern Ireland",SAU,GBR,324,345
+2022,"Saudi Arabia",Germany,SAU,DEU,127,24
+2022,"Saudi Arabia",Greece,SAU,GRC,8,0
+2022,"Saudi Arabia",Ireland,SAU,IRL,22,11
+2022,"Saudi Arabia",Malta,SAU,MLT,5,0
+2022,"Saudi Arabia","Netherlands (Kingdom of the)",SAU,NLD,57,31
+2022,"Saudi Arabia",Norway,SAU,NOR,8,5
+2022,"Saudi Arabia",Spain,SAU,ESP,5,0
+2022,"Saudi Arabia",Sweden,SAU,SWE,62,0
+2022,"Saudi Arabia",Switzerland,SAU,CHE,13,5
+2022,"Syrian Arab Rep.",Albania,SYR,ALB,23,0
+2022,"Syrian Arab Rep.",Armenia,SYR,ARM,4888,24
+2022,"Syrian Arab Rep.",Austria,SYR,AUT,73923,17244
+2022,"Syrian Arab Rep.",Azerbaijan,SYR,AZE,35,0
+2022,"Syrian Arab Rep.",Belgium,SYR,BEL,17808,2495
+2022,"Syrian Arab Rep.",Belarus,SYR,BLR,49,17
+2022,"Syrian Arab Rep.","Bosnia and Herzegovina",SYR,BIH,25,7
+2022,"Syrian Arab Rep.",Bulgaria,SYR,BGR,23726,5695
+2022,"Syrian Arab Rep.",Cyprus,SYR,CYP,10902,9504
+2022,"Syrian Arab Rep.",Czechia,SYR,CZE,341,6
+2022,"Syrian Arab Rep.",Denmark,SYR,DNK,19153,306
+2022,"Syrian Arab Rep.",Estonia,SYR,EST,107,0
+2022,"Syrian Arab Rep.",Finland,SYR,FIN,2594,154
+2022,"Syrian Arab Rep.",France,SYR,FRA,40339,992
+2022,"Syrian Arab Rep.","United Kingdom of Great Britain and Northern Ireland",SYR,GBR,12682,7372
+2022,"Syrian Arab Rep.",Georgia,SYR,GEO,448,20
+2022,"Syrian Arab Rep.",Germany,SYR,DEU,522575,54218
+2022,"Syrian Arab Rep.",Greece,SYR,GRC,42827,2520
+2022,"Syrian Arab Rep.",Croatia,SYR,HRV,550,44
+2022,"Syrian Arab Rep.",Hungary,SYR,HUN,819,0
+2022,"Syrian Arab Rep.",Iceland,SYR,ISL,256,9
+2022,"Syrian Arab Rep.",Ireland,SYR,IRL,2520,87
+2022,"Syrian Arab Rep.",Italy,SYR,ITA,3578,911
+2022,"Syrian Arab Rep.",Liechtenstein,SYR,LIE,34,0
+2022,"Syrian Arab Rep.",Lithuania,SYR,LTU,488,5
+2022,"Syrian Arab Rep.",Luxembourg,SYR,LUX,2912,940
+2022,"Syrian Arab Rep.",Latvia,SYR,LVA,318,12
+2022,"Syrian Arab Rep.","North Macedonia",SYR,MKD,0,6
+2022,"Syrian Arab Rep.",Monaco,SYR,MCO,5,0
+2022,"Syrian Arab Rep.","Rep. of Moldova",SYR,MDA,203,30
+2022,"Syrian Arab Rep.",Malta,SYR,MLT,1988,361
+2022,"Syrian Arab Rep.","Netherlands (Kingdom of the)",SYR,NLD,56580,11977
+2022,"Syrian Arab Rep.",Norway,SYR,NOR,15964,1289
+2022,"Syrian Arab Rep.",Poland,SYR,POL,280,28
+2022,"Syrian Arab Rep.",Portugal,SYR,PRT,918,15
+2022,"Syrian Arab Rep.",Romania,SYR,ROU,2332,284
+2022,"Syrian Arab Rep.","Russian Federation",SYR,RUS,194,58
+2022,"Syrian Arab Rep.",Spain,SYR,ESP,16670,640
+2022,"Syrian Arab Rep.","Serbia and Kosovo: S/RES/1244 (1999)",SYR,SRB,47,0
+2022,"Syrian Arab Rep.",Slovakia,SYR,SVK,55,5
+2022,"Syrian Arab Rep.",Slovenia,SYR,SVN,340,0
+2022,"Syrian Arab Rep.",Sweden,SYR,SWE,111199,1233
+2022,"Syrian Arab Rep.",Switzerland,SYR,CHE,20330,464
+2022,"Syrian Arab Rep.",Türkiye,SYR,TUR,3535898,0
+2022,"Syrian Arab Rep.",Ukraine,SYR,UKR,517,16
+2022,Tunisia,Albania,TUN,ALB,5,0
+2022,Tunisia,Austria,TUN,AUT,18,2478
+2022,Tunisia,Belgium,TUN,BEL,58,175
+2022,Tunisia,Bulgaria,TUN,BGR,5,14
+2022,Tunisia,Cyprus,TUN,CYP,0,5
+2022,Tunisia,Denmark,TUN,DNK,5,10
+2022,Tunisia,Finland,TUN,FIN,5,10
+2022,Tunisia,France,TUN,FRA,603,223
+2022,Tunisia,"United Kingdom of Great Britain and Northern Ireland",TUN,GBR,73,217
+2022,Tunisia,Germany,TUN,DEU,495,1265
+2022,Tunisia,Greece,TUN,GRC,32,5
+2022,Tunisia,Croatia,TUN,HRV,0,9
+2022,Tunisia,Hungary,TUN,HUN,7,0
+2022,Tunisia,Iceland,TUN,ISL,5,0
+2022,Tunisia,Ireland,TUN,IRL,5,54
+2022,Tunisia,Italy,TUN,ITA,577,1920
+2022,Tunisia,Luxembourg,TUN,LUX,11,25
+2022,Tunisia,Malta,TUN,MLT,13,5
+2022,Tunisia,"Netherlands (Kingdom of the)",TUN,NLD,90,233
+2022,Tunisia,Poland,TUN,POL,10,5
+2022,Tunisia,Portugal,TUN,PRT,84,0
+2022,Tunisia,Romania,TUN,ROU,7,12
+2022,Tunisia,Spain,TUN,ESP,92,100
+2022,Tunisia,Slovakia,TUN,SVK,5,0
+2022,Tunisia,Slovenia,TUN,SVN,0,10
+2022,Tunisia,Sweden,TUN,SWE,47,58
+2022,Tunisia,Switzerland,TUN,CHE,187,119
+2022,"United Arab Emirates",Belgium,ARE,BEL,7,0
+2022,"United Arab Emirates","United Kingdom of Great Britain and Northern Ireland",ARE,GBR,24,19
+2022,"United Arab Emirates",Germany,ARE,DEU,20,5
+2022,"United Arab Emirates","Netherlands (Kingdom of the)",ARE,NLD,7,5
+2022,"United Arab Emirates",Norway,ARE,NOR,0,5
+2022,"United Arab Emirates",Sweden,ARE,SWE,5,0
+2022,"Western Sahara",France,ESH,FRA,862,139
+2022,"Western Sahara","United Kingdom of Great Britain and Northern Ireland",ESH,GBR,11,5
+2022,"Western Sahara",Greece,ESH,GRC,10,0
+2022,"Western Sahara",Croatia,ESH,HRV,0,5
+2022,"Western Sahara",Italy,ESH,ITA,5,0
+2022,"Western Sahara",Switzerland,ESH,CHE,5,0
+2022,Yemen,Armenia,YEM,ARM,21,6
+2022,Yemen,Austria,YEM,AUT,562,180
+2022,Yemen,Azerbaijan,YEM,AZE,11,0
+2022,Yemen,Belgium,YEM,BEL,121,315
+2022,Yemen,Belarus,YEM,BLR,25,6
+2022,Yemen,Bulgaria,YEM,BGR,29,26
+2022,Yemen,Cyprus,YEM,CYP,61,30
+2022,Yemen,Czechia,YEM,CZE,27,0
+2022,Yemen,Denmark,YEM,DNK,7,0
+2022,Yemen,Estonia,YEM,EST,6,0
+2022,Yemen,Finland,YEM,FIN,331,41
+2022,Yemen,France,YEM,FRA,1084,127
+2022,Yemen,"United Kingdom of Great Britain and Northern Ireland",YEM,GBR,1647,938
+2022,Yemen,Georgia,YEM,GEO,62,20
+2022,Yemen,Germany,YEM,DEU,3757,1172
+2022,Yemen,Greece,YEM,GRC,1335,149
+2022,Yemen,Croatia,YEM,HRV,7,0
+2022,Yemen,Hungary,YEM,HUN,17,0
+2022,Yemen,Iceland,YEM,ISL,16,0
+2022,Yemen,Ireland,YEM,IRL,34,38
+2022,Yemen,Italy,YEM,ITA,30,44
+2022,Yemen,Lithuania,YEM,LTU,7,0
+2022,Yemen,Luxembourg,YEM,LUX,37,5
+2022,Yemen,"Rep. of Moldova",YEM,MDA,10,0
+2022,Yemen,Montenegro,YEM,MNE,7,0
+2022,Yemen,Malta,YEM,MLT,5,5
+2022,Yemen,"Netherlands (Kingdom of the)",YEM,NLD,4597,2044
+2022,Yemen,Norway,YEM,NOR,197,25
+2022,Yemen,Poland,YEM,POL,26,14
+2022,Yemen,Portugal,YEM,PRT,18,0
+2022,Yemen,Romania,YEM,ROU,79,5
+2022,Yemen,"Russian Federation",YEM,RUS,85,6
+2022,Yemen,Spain,YEM,ESP,516,240
+2022,Yemen,Slovakia,YEM,SVK,25,0
+2022,Yemen,Slovenia,YEM,SVN,6,0
+2022,Yemen,Sweden,YEM,SWE,1731,67
+2022,Yemen,Switzerland,YEM,CHE,342,19
+2022,Yemen,Ukraine,YEM,UKR,5,5
+2023,Algeria,Armenia,DZA,ARM,0,6
+2023,Algeria,Austria,DZA,AUT,22,88
+2023,Algeria,Belgium,DZA,BEL,127,225
+2023,Algeria,Bulgaria,DZA,BGR,0,24
+2023,Algeria,Cyprus,DZA,CYP,8,5
+2023,Algeria,Czechia,DZA,CZE,5,6
+2023,Algeria,Denmark,DZA,DNK,0,8
+2023,Algeria,Finland,DZA,FIN,11,20
+2023,Algeria,France,DZA,FRA,3375,617
+2023,Algeria,"United Kingdom of Great Britain and Northern Ireland",DZA,GBR,303,1037
+2023,Algeria,Georgia,DZA,GEO,0,5
+2023,Algeria,Germany,DZA,DEU,1079,1653
+2023,Algeria,Greece,DZA,GRC,145,49
+2023,Algeria,Croatia,DZA,HRV,0,16
+2023,Algeria,Hungary,DZA,HUN,12,0
+2023,Algeria,Iceland,DZA,ISL,0,5
+2023,Algeria,Ireland,DZA,IRL,130,3059
+2023,Algeria,Italy,DZA,ITA,136,209
+2023,Algeria,Luxembourg,DZA,LUX,35,75
+2023,Algeria,Latvia,DZA,LVA,0,5
+2023,Algeria,"North Macedonia",DZA,MKD,0,5
+2023,Algeria,"Netherlands (Kingdom of the)",DZA,NLD,59,584
+2023,Algeria,Norway,DZA,NOR,9,0
+2023,Algeria,Poland,DZA,POL,34,20
+2023,Algeria,Portugal,DZA,PRT,529,16
+2023,Algeria,Romania,DZA,ROU,7,5
+2023,Algeria,Spain,DZA,ESP,253,915
+2023,Algeria,Slovakia,DZA,SVK,0,5
+2023,Algeria,Slovenia,DZA,SVN,0,38
+2023,Algeria,Sweden,DZA,SWE,49,50
+2023,Algeria,Switzerland,DZA,CHE,183,297
+2023,Algeria,Ukraine,DZA,UKR,0,5
+2023,Egypt,Albania,EGY,ALB,8,0
+2023,Egypt,Armenia,EGY,ARM,8,68
+2023,Egypt,Austria,EGY,AUT,182,267
+2023,Egypt,Belgium,EGY,BEL,95,155
+2023,Egypt,Bulgaria,EGY,BGR,11,61
+2023,Egypt,Cyprus,EGY,CYP,149,219
+2023,Egypt,Czechia,EGY,CZE,11,6
+2023,Egypt,Denmark,EGY,DNK,24,0
+2023,Egypt,Finland,EGY,FIN,54,42
+2023,Egypt,France,EGY,FRA,1966,615
+2023,Egypt,"United Kingdom of Great Britain and Northern Ireland",EGY,GBR,1205,2336
+2023,Egypt,Georgia,EGY,GEO,68,53
+2023,Egypt,Germany,EGY,DEU,2593,1670
+2023,Egypt,Greece,EGY,GRC,458,2208
+2023,Egypt,Croatia,EGY,HRV,8,0
+2023,Egypt,Hungary,EGY,HUN,12,0
+2023,Egypt,Iceland,EGY,ISL,11,0
+2023,Egypt,Ireland,EGY,IRL,77,571
+2023,Egypt,Italy,EGY,ITA,736,21038
+2023,Egypt,Lithuania,EGY,LTU,7,0
+2023,Egypt,Luxembourg,EGY,LUX,8,10
+2023,Egypt,Latvia,EGY,LVA,10,5
+2023,Egypt,Malta,EGY,MLT,73,8
+2023,Egypt,"Netherlands (Kingdom of the)",EGY,NLD,606,421
+2023,Egypt,Norway,EGY,NOR,43,9
+2023,Egypt,Poland,EGY,POL,106,50
+2023,Egypt,Portugal,EGY,PRT,69,15
+2023,Egypt,Romania,EGY,ROU,25,39
+2023,Egypt,"Russian Federation",EGY,RUS,5,5
+2023,Egypt,Spain,EGY,ESP,146,45
+2023,Egypt,"Serbia and Kosovo: S/RES/1244 (1999)",EGY,SRB,0,5
+2023,Egypt,Slovakia,EGY,SVK,17,0
+2023,Egypt,Slovenia,EGY,SVN,0,5
+2023,Egypt,Sweden,EGY,SWE,363,72
+2023,Egypt,Switzerland,EGY,CHE,147,20
+2023,Egypt,Ukraine,EGY,UKR,0,7
+2023,Bahrain,Denmark,BHR,DNK,5,0
+2023,Bahrain,France,BHR,FRA,24,8
+2023,Bahrain,"United Kingdom of Great Britain and Northern Ireland",BHR,GBR,81,69
+2023,Bahrain,Germany,BHR,DEU,68,11
+2023,Bahrain,Ireland,BHR,IRL,11,5
+2023,Bahrain,"Netherlands (Kingdom of the)",BHR,NLD,27,6
+2023,Bahrain,Sweden,BHR,SWE,16,0
+2023,Palestinian,Albania,PSE,ALB,11,0
+2023,Palestinian,Armenia,PSE,ARM,7,0
+2023,Palestinian,Belgium,PSE,BEL,5538,4795
+2023,Palestinian,Belarus,PSE,BLR,9,10
+2023,Palestinian,"Bosnia and Herzegovina",PSE,BIH,0,7
+2023,Palestinian,Cyprus,PSE,CYP,2407,250
+2023,Palestinian,Estonia,PSE,EST,7,0
+2023,Palestinian,France,PSE,FRA,2211,115
+2023,Palestinian,"United Kingdom of Great Britain and Northern Ireland",PSE,GBR,876,327
+2023,Palestinian,Georgia,PSE,GEO,0,5
+2023,Palestinian,Germany,PSE,DEU,2142,1849
+2023,Palestinian,Greece,PSE,GRC,13988,1277
+2023,Palestinian,Croatia,PSE,HRV,0,18
+2023,Palestinian,Hungary,PSE,HUN,83,0
+2023,Palestinian,Iceland,PSE,ISL,425,85
+2023,Palestinian,Ireland,PSE,IRL,125,124
+2023,Palestinian,Italy,PSE,ITA,826,117
+2023,Palestinian,Latvia,PSE,LVA,5,0
+2023,Palestinian,"North Macedonia",PSE,MKD,0,5
+2023,Palestinian,"Rep. of Moldova",PSE,MDA,0,8
+2023,Palestinian,Malta,PSE,MLT,72,15
+2023,Palestinian,"Netherlands (Kingdom of the)",PSE,NLD,0,33
+2023,Palestinian,Poland,PSE,POL,19,15
+2023,Palestinian,Portugal,PSE,PRT,12,0
+2023,Palestinian,Romania,PSE,ROU,80,37
+2023,Palestinian,"Russian Federation",PSE,RUS,13,26
+2023,Palestinian,Spain,PSE,ESP,1234,260
+2023,Palestinian,"Serbia and Kosovo: S/RES/1244 (1999)",PSE,SRB,5,0
+2023,Palestinian,Slovakia,PSE,SVK,7,0
+2023,Palestinian,Slovenia,PSE,SVN,30,5
+2023,Palestinian,Sweden,PSE,SWE,1336,171
+2023,Palestinian,Ukraine,PSE,UKR,18,17
+2023,Iraq,Armenia,IRQ,ARM,1162,184
+2023,Iraq,Austria,IRQ,AUT,9829,778
+2023,Iraq,Azerbaijan,IRQ,AZE,10,0
+2023,Iraq,Belgium,IRQ,BEL,3040,950
+2023,Iraq,Belarus,IRQ,BLR,9,17
+2023,Iraq,"Bosnia and Herzegovina",IRQ,BIH,5,0
+2023,Iraq,Bulgaria,IRQ,BGR,618,192
+2023,Iraq,Cyprus,IRQ,CYP,1073,445
+2023,Iraq,Czechia,IRQ,CZE,105,7
+2023,Iraq,Denmark,IRQ,DNK,260,37
+2023,Iraq,Estonia,IRQ,EST,17,0
+2023,Iraq,Finland,IRQ,FIN,9343,1020
+2023,Iraq,France,IRQ,FRA,14094,234
+2023,Iraq,"United Kingdom of Great Britain and Northern Ireland",IRQ,GBR,12567,9162
+2023,Iraq,Georgia,IRQ,GEO,265,13
+2023,Iraq,Germany,IRQ,DEU,146481,28738
+2023,Iraq,Greece,IRQ,GRC,20784,1254
+2023,Iraq,Croatia,IRQ,HRV,120,43
+2023,Iraq,Hungary,IRQ,HUN,586,0
+2023,Iraq,Iceland,IRQ,ISL,318,56
+2023,Iraq,Ireland,IRQ,IRL,309,173
+2023,Iraq,Italy,IRQ,ITA,5576,1218
+2023,Iraq,Liechtenstein,IRQ,LIE,5,5
+2023,Iraq,Lithuania,IRQ,LTU,85,8
+2023,Iraq,Luxembourg,IRQ,LUX,847,54
+2023,Iraq,Latvia,IRQ,LVA,39,0
+2023,Iraq,Monaco,IRQ,MCO,5,0
+2023,Iraq,"Rep. of Moldova",IRQ,MDA,16,0
+2023,Iraq,Malta,IRQ,MLT,80,0
+2023,Iraq,"Netherlands (Kingdom of the)",IRQ,NLD,4290,1842
+2023,Iraq,Norway,IRQ,NOR,891,72
+2023,Iraq,Poland,IRQ,POL,149,200
+2023,Iraq,Portugal,IRQ,PRT,261,5
+2023,Iraq,Romania,IRQ,ROU,462,57
+2023,Iraq,"Russian Federation",IRQ,RUS,12,0
+2023,Iraq,Spain,IRQ,ESP,545,95
+2023,Iraq,"Serbia and Kosovo: S/RES/1244 (1999)",IRQ,SRB,21,0
+2023,Iraq,Slovakia,IRQ,SVK,217,5
+2023,Iraq,Slovenia,IRQ,SVN,53,5
+2023,Iraq,Sweden,IRQ,SWE,9063,1153
+2023,Iraq,Switzerland,IRQ,CHE,4010,528
+2023,Iraq,Türkiye,IRQ,TUR,12909,101028
+2023,Iraq,Ukraine,IRQ,UKR,70,26
+2023,Israel,Austria,ISR,AUT,0,11
+2023,Israel,Belgium,ISR,BEL,6,0
+2023,Israel,Czechia,ISR,CZE,5,5
+2023,Israel,Denmark,ISR,DNK,5,5
+2023,Israel,Estonia,ISR,EST,0,9
+2023,Israel,Finland,ISR,FIN,5,11
+2023,Israel,France,ISR,FRA,10,17
+2023,Israel,"United Kingdom of Great Britain and Northern Ireland",ISR,GBR,121,60
+2023,Israel,Germany,ISR,DEU,163,77
+2023,Israel,Greece,ISR,GRC,5,0
+2023,Israel,Hungary,ISR,HUN,16,0
+2023,Israel,Ireland,ISR,IRL,18,15
+2023,Israel,Italy,ISR,ITA,10,16
+2023,Israel,Latvia,ISR,LVA,13,0
+2023,Israel,"Rep. of Moldova",ISR,MDA,0,5
+2023,Israel,"Netherlands (Kingdom of the)",ISR,NLD,0,11
+2023,Israel,Norway,ISR,NOR,12,11
+2023,Israel,Poland,ISR,POL,73,5
+2023,Israel,Portugal,ISR,PRT,33,6
+2023,Israel,Romania,ISR,ROU,51,5
+2023,Israel,"Russian Federation",ISR,RUS,14,29
+2023,Israel,Spain,ISR,ESP,77,10
+2023,Israel,Slovakia,ISR,SVK,13,0
+2023,Israel,Slovenia,ISR,SVN,0,11
+2023,Israel,Sweden,ISR,SWE,20,17
+2023,Israel,Switzerland,ISR,CHE,7,8
+2023,Jordan,Armenia,JOR,ARM,0,5
+2023,Jordan,Austria,JOR,AUT,89,92
+2023,Jordan,Belgium,JOR,BEL,41,110
+2023,Jordan,Bulgaria,JOR,BGR,5,0
+2023,Jordan,Cyprus,JOR,CYP,66,62
+2023,Jordan,Czechia,JOR,CZE,5,0
+2023,Jordan,Denmark,JOR,DNK,6,7
+2023,Jordan,Finland,JOR,FIN,11,5
+2023,Jordan,France,JOR,FRA,75,7
+2023,Jordan,"United Kingdom of Great Britain and Northern Ireland",JOR,GBR,165,138
+2023,Jordan,Georgia,JOR,GEO,0,21
+2023,Jordan,Germany,JOR,DEU,999,595
+2023,Jordan,Greece,JOR,GRC,45,8
+2023,Jordan,Croatia,JOR,HRV,0,5
+2023,Jordan,Hungary,JOR,HUN,5,0
+2023,Jordan,Iceland,JOR,ISL,0,17
+2023,Jordan,Ireland,JOR,IRL,28,97
+2023,Jordan,Italy,JOR,ITA,35,25
+2023,Jordan,Malta,JOR,MLT,5,0
+2023,Jordan,"Netherlands (Kingdom of the)",JOR,NLD,183,141
+2023,Jordan,Norway,JOR,NOR,5,5
+2023,Jordan,Poland,JOR,POL,13,5
+2023,Jordan,Portugal,JOR,PRT,21,0
+2023,Jordan,Romania,JOR,ROU,12,0
+2023,Jordan,Spain,JOR,ESP,69,10
+2023,Jordan,"Serbia and Kosovo: S/RES/1244 (1999)",JOR,SRB,8,0
+2023,Jordan,Slovenia,JOR,SVN,0,5
+2023,Jordan,Sweden,JOR,SWE,267,105
+2023,Jordan,Switzerland,JOR,CHE,60,8
+2023,Kuwait,Austria,KWT,AUT,9,0
+2023,Kuwait,Belgium,KWT,BEL,5,0
+2023,Kuwait,France,KWT,FRA,702,25
+2023,Kuwait,"United Kingdom of Great Britain and Northern Ireland",KWT,GBR,1006,1133
+2023,Kuwait,Germany,KWT,DEU,78,94
+2023,Kuwait,Greece,KWT,GRC,186,7
+2023,Kuwait,Ireland,KWT,IRL,37,42
+2023,Kuwait,Luxembourg,KWT,LUX,6,10
+2023,Kuwait,"Netherlands (Kingdom of the)",KWT,NLD,11,10
+2023,Kuwait,Romania,KWT,ROU,5,0
+2023,Kuwait,Spain,KWT,ESP,6,5
+2023,Kuwait,Sweden,KWT,SWE,14,0
+2023,Libya,Austria,LBY,AUT,154,44
+2023,Libya,Azerbaijan,LBY,AZE,5,0
+2023,Libya,Belgium,LBY,BEL,81,245
+2023,Libya,Belarus,LBY,BLR,6,0
+2023,Libya,Bulgaria,LBY,BGR,0,5
+2023,Libya,Cyprus,LBY,CYP,12,0
+2023,Libya,Czechia,LBY,CZE,23,0
+2023,Libya,Finland,LBY,FIN,33,18
+2023,Libya,France,LBY,FRA,2556,115
+2023,Libya,"United Kingdom of Great Britain and Northern Ireland",LBY,GBR,5389,873
+2023,Libya,Germany,LBY,DEU,3051,1367
+2023,Libya,Greece,LBY,GRC,70,5
+2023,Libya,Croatia,LBY,HRV,5,5
+2023,Libya,Hungary,LBY,HUN,8,0
+2023,Libya,Iceland,LBY,ISL,24,15
+2023,Libya,Ireland,LBY,IRL,159,21
+2023,Libya,Italy,LBY,ITA,1144,293
+2023,Libya,Luxembourg,LBY,LUX,9,5
+2023,Libya,"Rep. of Moldova",LBY,MDA,5,0
+2023,Libya,Malta,LBY,MLT,2831,50
+2023,Libya,"Netherlands (Kingdom of the)",LBY,NLD,239,260
+2023,Libya,Norway,LBY,NOR,51,16
+2023,Libya,Poland,LBY,POL,26,10
+2023,Libya,Portugal,LBY,PRT,27,0
+2023,Libya,Romania,LBY,ROU,5,0
+2023,Libya,"Russian Federation",LBY,RUS,6,0
+2023,Libya,Spain,LBY,ESP,187,55
+2023,Libya,"Serbia and Kosovo: S/RES/1244 (1999)",LBY,SRB,50,0
+2023,Libya,Slovakia,LBY,SVK,12,6
+2023,Libya,Sweden,LBY,SWE,198,33
+2023,Libya,Switzerland,LBY,CHE,284,59
+2023,Libya,Ukraine,LBY,UKR,10,0
+2023,Lebanon,Armenia,LBN,ARM,26,5
+2023,Lebanon,Austria,LBN,AUT,132,108
+2023,Lebanon,Belgium,LBN,BEL,155,200
+2023,Lebanon,Belarus,LBN,BLR,5,0
+2023,Lebanon,Bulgaria,LBN,BGR,24,22
+2023,Lebanon,Cyprus,LBN,CYP,65,81
+2023,Lebanon,Czechia,LBN,CZE,7,0
+2023,Lebanon,Denmark,LBN,DNK,29,12
+2023,Lebanon,Finland,LBN,FIN,13,6
+2023,Lebanon,France,LBN,FRA,469,95
+2023,Lebanon,"United Kingdom of Great Britain and Northern Ireland",LBN,GBR,307,158
+2023,Lebanon,Georgia,LBN,GEO,11,24
+2023,Lebanon,Germany,LBN,DEU,2917,2603
+2023,Lebanon,Greece,LBN,GRC,119,35
+2023,Lebanon,Hungary,LBN,HUN,5,0
+2023,Lebanon,Ireland,LBN,IRL,18,18
+2023,Lebanon,Italy,LBN,ITA,147,130
+2023,Lebanon,Luxembourg,LBN,LUX,8,11
+2023,Lebanon,Latvia,LBN,LVA,5,0
+2023,Lebanon,"Rep. of Moldova",LBN,MDA,0,5
+2023,Lebanon,"Netherlands (Kingdom of the)",LBN,NLD,219,105
+2023,Lebanon,Norway,LBN,NOR,17,12
+2023,Lebanon,Poland,LBN,POL,22,5
+2023,Lebanon,Portugal,LBN,PRT,13,0
+2023,Lebanon,Romania,LBN,ROU,25,0
+2023,Lebanon,"Russian Federation",LBN,RUS,5,0
+2023,Lebanon,Spain,LBN,ESP,58,30
+2023,Lebanon,Slovakia,LBN,SVK,0,5
+2023,Lebanon,Sweden,LBN,SWE,387,159
+2023,Lebanon,Switzerland,LBN,CHE,53,38
+2023,Lebanon,Ukraine,LBN,UKR,11,0
+2023,Mauritania,Belgium,MRT,BEL,248,260
+2023,Mauritania,Finland,MRT,FIN,0,7
+2023,Mauritania,France,MRT,FRA,8721,870
+2023,Mauritania,"United Kingdom of Great Britain and Northern Ireland",MRT,GBR,10,16
+2023,Mauritania,Germany,MRT,DEU,75,76
+2023,Mauritania,Greece,MRT,GRC,61,6
+2023,Mauritania,Croatia,MRT,HRV,5,0
+2023,Mauritania,Ireland,MRT,IRL,0,5
+2023,Mauritania,Italy,MRT,ITA,278,15
+2023,Mauritania,Luxembourg,MRT,LUX,0,10
+2023,Mauritania,"Netherlands (Kingdom of the)",MRT,NLD,15,5
+2023,Mauritania,Spain,MRT,ESP,54,105
+2023,Mauritania,Sweden,MRT,SWE,8,0
+2023,Mauritania,Switzerland,MRT,CHE,5,6
+2023,Morocco,Armenia,MAR,ARM,0,5
+2023,Morocco,Austria,MAR,AUT,64,1086
+2023,Morocco,Belgium,MAR,BEL,207,450
+2023,Morocco,Bulgaria,MAR,BGR,8,192
+2023,Morocco,Cyprus,MAR,CYP,0,14
+2023,Morocco,Czechia,MAR,CZE,5,0
+2023,Morocco,Denmark,MAR,DNK,9,24
+2023,Morocco,Finland,MAR,FIN,56,59
+2023,Morocco,France,MAR,FRA,1776,608
+2023,Morocco,"United Kingdom of Great Britain and Northern Ireland",MAR,GBR,304,469
+2023,Morocco,Germany,MAR,DEU,2244,1474
+2023,Morocco,Greece,MAR,GRC,247,75
+2023,Morocco,Croatia,MAR,HRV,34,46
+2023,Morocco,Hungary,MAR,HUN,5,0
+2023,Morocco,Iceland,MAR,ISL,8,10
+2023,Morocco,Ireland,MAR,IRL,44,330
+2023,Morocco,Italy,MAR,ITA,702,4281
+2023,Morocco,Luxembourg,MAR,LUX,8,50
+2023,Morocco,"North Macedonia",MAR,MKD,0,8
+2023,Morocco,"Rep. of Moldova",MAR,MDA,0,13
+2023,Morocco,Malta,MAR,MLT,30,5
+2023,Morocco,"Netherlands (Kingdom of the)",MAR,NLD,156,379
+2023,Morocco,Norway,MAR,NOR,14,16
+2023,Morocco,Poland,MAR,POL,11,25
+2023,Morocco,Portugal,MAR,PRT,975,27
+2023,Morocco,Romania,MAR,ROU,10,16
+2023,Morocco,Spain,MAR,ESP,1241,4225
+2023,Morocco,Slovakia,MAR,SVK,0,13
+2023,Morocco,Slovenia,MAR,SVN,5,820
+2023,Morocco,Sweden,MAR,SWE,213,94
+2023,Morocco,Switzerland,MAR,CHE,93,199
+2023,Morocco,Ukraine,MAR,UKR,0,8
+2023,Oman,"United Kingdom of Great Britain and Northern Ireland",OMN,GBR,42,37
+2023,Oman,Germany,OMN,DEU,15,0
+2023,Oman,"Netherlands (Kingdom of the)",OMN,NLD,5,5
+2023,Qatar,"United Kingdom of Great Britain and Northern Ireland",QAT,GBR,30,8
+2023,Qatar,Germany,QAT,DEU,5,0
+2023,Qatar,Spain,QAT,ESP,0,5
+2023,"Saudi Arabia",Austria,SAU,AUT,11,0
+2023,"Saudi Arabia",Belgium,SAU,BEL,6,5
+2023,"Saudi Arabia",Czechia,SAU,CZE,5,0
+2023,"Saudi Arabia",Finland,SAU,FIN,0,5
+2023,"Saudi Arabia",France,SAU,FRA,56,0
+2023,"Saudi Arabia","United Kingdom of Great Britain and Northern Ireland",SAU,GBR,492,310
+2023,"Saudi Arabia",Germany,SAU,DEU,222,29
+2023,"Saudi Arabia",Greece,SAU,GRC,8,0
+2023,"Saudi Arabia",Iceland,SAU,ISL,0,5
+2023,"Saudi Arabia",Ireland,SAU,IRL,26,12
+2023,"Saudi Arabia",Italy,SAU,ITA,6,0
+2023,"Saudi Arabia",Malta,SAU,MLT,5,0
+2023,"Saudi Arabia","Netherlands (Kingdom of the)",SAU,NLD,71,37
+2023,"Saudi Arabia",Norway,SAU,NOR,9,5
+2023,"Saudi Arabia",Spain,SAU,ESP,5,0
+2023,"Saudi Arabia",Sweden,SAU,SWE,54,0
+2023,"Saudi Arabia",Switzerland,SAU,CHE,16,0
+2023,"Syrian Arab Rep.",Albania,SYR,ALB,21,8
+2023,"Syrian Arab Rep.",Armenia,SYR,ARM,4906,13
+2023,"Syrian Arab Rep.",Austria,SYR,AUT,87167,17740
+2023,"Syrian Arab Rep.",Azerbaijan,SYR,AZE,34,0
+2023,"Syrian Arab Rep.",Belgium,SYR,BEL,18909,3400
+2023,"Syrian Arab Rep.",Belarus,SYR,BLR,27,6
+2023,"Syrian Arab Rep.","Bosnia and Herzegovina",SYR,BIH,27,0
+2023,"Syrian Arab Rep.",Bulgaria,SYR,BGR,27366,6774
+2023,"Syrian Arab Rep.",Cyprus,SYR,CYP,13062,12823
+2023,"Syrian Arab Rep.",Czechia,SYR,CZE,318,31
+2023,"Syrian Arab Rep.",Denmark,SYR,DNK,18039,400
+2023,"Syrian Arab Rep.",Estonia,SYR,EST,87,0
+2023,"Syrian Arab Rep.",Finland,SYR,FIN,2702,688
+2023,"Syrian Arab Rep.",France,SYR,FRA,43589,1001
+2023,"Syrian Arab Rep.","United Kingdom of Great Britain and Northern Ireland",SYR,GBR,17677,4456
+2023,"Syrian Arab Rep.",Georgia,SYR,GEO,465,22
+2023,"Syrian Arab Rep.",Germany,SYR,DEU,705812,72642
+2023,"Syrian Arab Rep.",Greece,SYR,GRC,45878,9122
+2023,"Syrian Arab Rep.",Croatia,SYR,HRV,551,120
+2023,"Syrian Arab Rep.",Hungary,SYR,HUN,805,0
+2023,"Syrian Arab Rep.",Iceland,SYR,ISL,287,40
+2023,"Syrian Arab Rep.",Ireland,SYR,IRL,2097,200
+2023,"Syrian Arab Rep.",Italy,SYR,ITA,3603,375
+2023,"Syrian Arab Rep.",Lithuania,SYR,LTU,496,13
+2023,"Syrian Arab Rep.",Luxembourg,SYR,LUX,3367,1189
+2023,"Syrian Arab Rep.",Latvia,SYR,LVA,299,49
+2023,"Syrian Arab Rep.","North Macedonia",SYR,MKD,0,6
+2023,"Syrian Arab Rep.",Monaco,SYR,MCO,5,0
+2023,"Syrian Arab Rep.","Rep. of Moldova",SYR,MDA,200,32
+2023,"Syrian Arab Rep.",Malta,SYR,MLT,2191,203
+2023,"Syrian Arab Rep.","Netherlands (Kingdom of the)",SYR,NLD,58378,15732
+2023,"Syrian Arab Rep.",Norway,SYR,NOR,15978,1269
+2023,"Syrian Arab Rep.",Poland,SYR,POL,298,65
+2023,"Syrian Arab Rep.",Portugal,SYR,PRT,951,17
+2023,"Syrian Arab Rep.",Romania,SYR,ROU,2379,365
+2023,"Syrian Arab Rep.","Russian Federation",SYR,RUS,136,66
+2023,"Syrian Arab Rep.",Spain,SYR,ESP,17258,635
+2023,"Syrian Arab Rep.","Serbia and Kosovo: S/RES/1244 (1999)",SYR,SRB,48,18
+2023,"Syrian Arab Rep.",Slovakia,SYR,SVK,60,5
+2023,"Syrian Arab Rep.",Slovenia,SYR,SVN,368,9
+2023,"Syrian Arab Rep.",Sweden,SYR,SWE,94873,856
+2023,"Syrian Arab Rep.",Switzerland,SYR,CHE,20444,593
+2023,"Syrian Arab Rep.",Türkiye,SYR,TUR,3214780,0
+2023,"Syrian Arab Rep.",Ukraine,SYR,UKR,512,9
+2023,Tunisia,Austria,TUN,AUT,36,202
+2023,Tunisia,Belgium,TUN,BEL,75,165
+2023,Tunisia,Bulgaria,TUN,BGR,5,17
+2023,Tunisia,Czechia,TUN,CZE,0,7
+2023,Tunisia,Denmark,TUN,DNK,8,13
+2023,Tunisia,Finland,TUN,FIN,8,7
+2023,Tunisia,France,TUN,FRA,668,265
+2023,Tunisia,"United Kingdom of Great Britain and Northern Ireland",TUN,GBR,99,362
+2023,Tunisia,Germany,TUN,DEU,598,2193
+2023,Tunisia,Greece,TUN,GRC,31,15
+2023,Tunisia,Croatia,TUN,HRV,0,5
+2023,Tunisia,Hungary,TUN,HUN,7,0
+2023,Tunisia,Iceland,TUN,ISL,5,5
+2023,Tunisia,Ireland,TUN,IRL,7,100
+2023,Tunisia,Italy,TUN,ITA,474,3599
+2023,Tunisia,Luxembourg,TUN,LUX,11,45
+2023,Tunisia,Malta,TUN,MLT,13,0
+2023,Tunisia,"Netherlands (Kingdom of the)",TUN,NLD,51,243
+2023,Tunisia,Poland,TUN,POL,13,5
+2023,Tunisia,Portugal,TUN,PRT,51,8
+2023,Tunisia,Romania,TUN,ROU,7,0
+2023,Tunisia,Spain,TUN,ESP,107,75
+2023,Tunisia,Slovakia,TUN,SVK,5,0
+2023,Tunisia,Slovenia,TUN,SVN,0,8
+2023,Tunisia,Sweden,TUN,SWE,42,42
+2023,Tunisia,Switzerland,TUN,CHE,171,163
+2023,"United Arab Emirates",Belgium,ARE,BEL,7,5
+2023,"United Arab Emirates","United Kingdom of Great Britain and Northern Ireland",ARE,GBR,40,8
+2023,"United Arab Emirates",Germany,ARE,DEU,31,5
+2023,"United Arab Emirates","Netherlands (Kingdom of the)",ARE,NLD,5,5
+2023,"United Arab Emirates",Norway,ARE,NOR,5,0
+2023,"United Arab Emirates",Sweden,ARE,SWE,5,0
+2023,"Western Sahara",France,ESH,FRA,859,198
+2023,"Western Sahara","United Kingdom of Great Britain and Northern Ireland",ESH,GBR,7,11
+2023,"Western Sahara",Greece,ESH,GRC,10,0
+2023,"Western Sahara",Ireland,ESH,IRL,0,5
+2023,"Western Sahara",Switzerland,ESH,CHE,5,0
+2023,Yemen,Armenia,YEM,ARM,27,0
+2023,Yemen,Austria,YEM,AUT,654,144
+2023,Yemen,Azerbaijan,YEM,AZE,11,0
+2023,Yemen,Belgium,YEM,BEL,176,298
+2023,Yemen,Belarus,YEM,BLR,22,0
+2023,Yemen,Bulgaria,YEM,BGR,46,5
+2023,Yemen,Cyprus,YEM,CYP,83,25
+2023,Yemen,Czechia,YEM,CZE,19,5
+2023,Yemen,Denmark,YEM,DNK,6,5
+2023,Yemen,Estonia,YEM,EST,9,0
+2023,Yemen,Finland,YEM,FIN,366,154
+2023,Yemen,France,YEM,FRA,1245,88
+2023,Yemen,"United Kingdom of Great Britain and Northern Ireland",YEM,GBR,2510,572
+2023,Yemen,Georgia,YEM,GEO,68,19
+2023,Yemen,Germany,YEM,DEU,4794,2077
+2023,Yemen,Greece,YEM,GRC,2300,91
+2023,Yemen,Croatia,YEM,HRV,7,0
+2023,Yemen,Hungary,YEM,HUN,17,0
+2023,Yemen,Iceland,YEM,ISL,26,5
+2023,Yemen,Ireland,YEM,IRL,53,52
+2023,Yemen,Italy,YEM,ITA,150,27
+2023,Yemen,Lithuania,YEM,LTU,7,0
+2023,Yemen,Luxembourg,YEM,LUX,37,15
+2023,Yemen,Latvia,YEM,LVA,5,5
+2023,Yemen,"Rep. of Moldova",YEM,MDA,5,0
+2023,Yemen,Montenegro,YEM,MNE,7,0
+2023,Yemen,Malta,YEM,MLT,5,0
+2023,Yemen,"Netherlands (Kingdom of the)",YEM,NLD,7347,2064
+2023,Yemen,Norway,YEM,NOR,224,43
+2023,Yemen,Poland,YEM,POL,43,10
+2023,Yemen,Portugal,YEM,PRT,13,0
+2023,Yemen,Romania,YEM,ROU,75,5
+2023,Yemen,"Russian Federation",YEM,RUS,58,0
+2023,Yemen,Spain,YEM,ESP,560,185
+2023,Yemen,Slovakia,YEM,SVK,25,0
+2023,Yemen,Slovenia,YEM,SVN,6,0
+2023,Yemen,Sweden,YEM,SWE,1593,45
+2023,Yemen,Switzerland,YEM,CHE,354,10
+2023,Yemen,Ukraine,YEM,UKR,6,0
